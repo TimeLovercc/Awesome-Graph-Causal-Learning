@@ -11,14 +11,14 @@ This repository contains a list of papers on the **Counterfactual Learning for G
 ## Latest Papers
 ### Year 2022
 1. [WSDM 2022] **Learning Fair Node Representations with Graph Counterfactual Fairness** [[paper]](https://arxiv.org/pdf/2201.03662.pdf)
-1. [arXiv 2021] **Counterfactual Graph Learning for Link Prediction** [[paper]](https://arxiv.org/pdf/2106.02172.pdf)
+1. [WWW 2022] **Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning** [[paper]](https://arxiv.org/pdf/2202.08816.pdf)
 1. [arXiv 2021] **Counterfactual Graph Learning for Link Prediction** [[paper]](https://arxiv.org/pdf/2106.02172.pdf)
 
 ### Year 2021
 1. [arXiv 2021] **Counterfactual Graph Learning for Link Prediction** [[paper]](https://arxiv.org/pdf/2106.02172.pdf)
 1. [arXiv 2021] **CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2102.03322.pdf)
 1. [NeurIPS 2021] **Robust Counterfactual Explanations on Graph Neural Networks** [[paper]](https://proceedings.neurips.cc/paper/2021/file/2c8c3a57383c63caef6724343eb62257-Paper.pdf)
-1. [arXiv 2021] **Counterfactual Graph Learning for Link Prediction** [[paper]](https://arxiv.org/pdf/2106.02172.pdf)
+1. [UAI 2021] **Towards a Unified Framework for Fair and Stable Graph Representation Learning** [[paper]](https://proceedings.mlr.press/v161/agarwal21b/agarwal21b.pdf)
 1. [arXiv 2021] **Counterfactual Graph Learning for Link Prediction** [[paper]](https://arxiv.org/pdf/2106.02172.pdf)
 
 ## General Papers
