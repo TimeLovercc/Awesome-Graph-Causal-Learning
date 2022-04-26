@@ -20,4 +20,4 @@ This repository contains a list of papers on the **Counterfactual Learning for G
 2. [ICML 2016] **Learning Representations for Counterfactual Inference** [[paper]](http://proceedings.mlr.press/v48/johansson16.pdf)
 
 ## Tutorials
-1. [arXiv 2022] **Explanation Graph Generation via Pre-trained Language Models: An Empirical Study with Contrastive Learning** [[paper]](https://arxiv.org/pdf/2204.04813)
+1. [KDD 2018] **Tutorial on Causal Inference and Counterfactual Reasoning** [[Link]](https://causalinference.gitlab.io/kdd-tutorial/)
