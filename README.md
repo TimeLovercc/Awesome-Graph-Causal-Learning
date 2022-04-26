@@ -10,10 +10,13 @@ This repository contains a list of papers on the **Counterfactual Learning for G
 
 ## Latest Papers
 ### Year 2022
-1. [arXiv 2022] **Explanation Graph Generation via Pre-trained Language Models: An Empirical Study with Contrastive Learning** [[paper]](https://arxiv.org/pdf/2204.04813)
+1. [arXiv 2021] **Counterfactual Graph Learning for Link Prediction** [[paper]](https://arxiv.org/pdf/2106.02172.pdf)
+
+### Year 2021
+1. [arXiv 2021] **Counterfactual Graph Learning for Link Prediction** [[paper]](https://arxiv.org/pdf/2106.02172.pdf)
 
 ## General Papers
-1. [arXiv 2022] **Explanation Graph Generation via Pre-trained Language Models: An Empirical Study with Contrastive Learning** [[paper]](https://arxiv.org/pdf/2204.04813)
+1. [arXiv 2022] **Explanation Graph Generation via Pre-trained Language Models: An Empirical Study with Contrastive Learning** [[paper]](https://arxiv.org/pdf/2106.02172.pdf)
 
 ## Tutorials
 1. [arXiv 2022] **Explanation Graph Generation via Pre-trained Language Models: An Empirical Study with Contrastive Learning** [[paper]](https://arxiv.org/pdf/2204.04813)
