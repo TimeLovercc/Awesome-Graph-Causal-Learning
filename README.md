@@ -24,6 +24,7 @@ This repository contains a list of papers on the **Counterfactual Learning for G
 1. [KDD 2021] **Counterfactual Graphs for Explainable Classification of Brain Networks** [[paper]](https://arxiv.org/pdf/2106.08640.pdf)
 1. [ICDE 2021] **A Multi-view Confidence-calibrated Framework for Fair and Stable Graph Representation Learning** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9679093)
 1. [NAACL 2021] **Counterfactual Supporting Facts Extraction for Explainable Medical Record Based Diagnosis with Graph Network** [[paper]](https://aclanthology.org/2021.naacl-main.156.pdf)
+1. [ICDM 2021] **Multi-objective Explanations of GNN Predictions** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679172)
 
 ### Year 2020
 1. [AIES 2020] **FACE:Feasible and Actionable Counterfactual Explanations** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3375627.3375850)
