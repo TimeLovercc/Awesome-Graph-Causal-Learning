@@ -14,9 +14,14 @@ This repository contains a list of papers on the **Counterfactual Learning for G
 1. [WWW 2022] **Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning** [[paper]](https://arxiv.org/pdf/2202.08816.pdf)
 1. [Dissertation] **Flow-based counterfactuals for interpretable graph node classification** [[paper]](https://www.mi.fu-berlin.de/inf/groups/ag-ki/Theses/Completed-theses/Bachelor-theses/2022/Ohly/thesis_ohly.pdf)
 1. [AISTATS 2022] **Probing GNN Explainers: A Rigorous Theoretical and Empirical Analysis of GNN Explanation Methods** [[paper]](https://arxiv.org/pdf/2106.09078.pdf)
+1. [TPAMI 2022] **Reinforced Causal Explainer for Graph Neural Networks** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9763330&casa_token=9DbMc0tWMUEAAAAA:T8-jj7iyCoho6IertAUHY9oWPd-RNJSA0AYkbHA6r3NGbz1AMRAnF4ZcKH-wzBJnO84YJQ)
+1. [AAAI 2022] **CausalGNN: Causal-based Graph Neural Networks for Spatio-Temporal Epidemic Forecasting** [[paper]](https://www.aaai.org/AAAI22Papers/AISI-6475.WangL.pdf)
+
 
 ### Year 2021
 1. [arXiv 2021] **Counterfactual Graph Learning for Link Prediction** [[paper]](https://arxiv.org/pdf/2106.02172.pdf)
+1. [arXiv 2021] **Relating Graph Neural Networks to Structural Causal Models** [[paper]](https://128.84.4.13/pdf/2109.04173.pdf)
+1. [arXiv 2021] **1. [arXiv 2021] **Relating Graph Neural Networks to Structural Causal Models** [[paper]](https://128.84.4.13/pdf/2109.04173.pdf)** [[paper]](https://arxiv.org/pdf/2110.14690.pdf)
 1. [AISTATS 2021] **CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2102.03322.pdf)
 1. [NeurIPS 2021] **Robust Counterfactual Explanations on Graph Neural Networks** [[paper]](https://proceedings.neurips.cc/paper/2021/file/2c8c3a57383c63caef6724343eb62257-Paper.pdf)
 1. [UAI 2021] **Towards a Unified Framework for Fair and Stable Graph Representation Learning** [[paper]](https://proceedings.mlr.press/v161/agarwal21b/agarwal21b.pdf)
@@ -25,9 +30,14 @@ This repository contains a list of papers on the **Counterfactual Learning for G
 1. [ICDE 2021] **A Multi-view Confidence-calibrated Framework for Fair and Stable Graph Representation Learning** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9679093)
 1. [NAACL 2021] **Counterfactual Supporting Facts Extraction for Explainable Medical Record Based Diagnosis with Graph Network** [[paper]](https://aclanthology.org/2021.naacl-main.156.pdf)
 1. [ICDM 2021] **Multi-objective Explanations of GNN Predictions** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679172)
+1. [ICML 2021] **Generative Causal Explanations for Graph Neural Networks** [[paper]](https://proceedings.mlr.press/v139/lin21d/lin21d.pdf)
+
 
 ### Year 2020
 1. [AIES 2020] **FACE:Feasible and Actionable Counterfactual Explanations** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3375627.3375850)
+
+### Year 2019
+1. [NeurIPS 2019 Workshop] **A Graph Autoencoder Approach to Causal Structure Learning** [[paper]](https://arxiv.org/pdf/1911.07420.pdf)
 
 ## General Papers
 1. [arXiv 2020] **A Survey on Causal Inference** [[paper]](https://arxiv.org/pdf/2002.02770.pdf)
