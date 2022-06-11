@@ -22,6 +22,7 @@ This repository contains a list of papers on the **Counterfactual Learning for G
 
 
 ### Year 2021
+1. [arXiv 2021] **Preserve, Promote, or Attack? GNN Explanation via Topology Perturbation** [[paper]](https://arxiv.org/pdf/2103.13944.pdf)
 1. [arXiv 2021] **Counterfactual Graph Learning for Link Prediction** [[paper]](https://arxiv.org/pdf/2106.02172.pdf)
 1. [arXiv 2021] **Relating Graph Neural Networks to Structural Causal Models** [[paper]](https://128.84.4.13/pdf/2109.04173.pdf)
 1. [AISTATS 2021] **CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2102.03322.pdf)
