@@ -10,6 +10,7 @@ This repository contains a list of papers on the **Counterfactual Learning for G
 
 ## Latest Papers
 ### Year 2022
+1. [arXiv 2022] **GRETEL: A unified framework for Graph Counterfactual Explanation Evaluation** [[paper]](https://arxiv.org/pdf/2206.02957.pdf)
 1. [WSDM 2022] **Learning Fair Node Representations with Graph Counterfactual Fairness** [[paper]](https://arxiv.org/pdf/2201.03662.pdf)
 1. [WWW 2022] **Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning** [[paper]](https://arxiv.org/pdf/2202.08816.pdf)
 1. [Dissertation] **Flow-based counterfactuals for interpretable graph node classification** [[paper]](https://www.mi.fu-berlin.de/inf/groups/ag-ki/Theses/Completed-theses/Bachelor-theses/2022/Ohly/thesis_ohly.pdf)
