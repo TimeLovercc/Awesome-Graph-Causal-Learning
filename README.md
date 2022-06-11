@@ -25,6 +25,8 @@ This repository contains a list of papers on the **Counterfactual Learning for G
 
 
 ### Year 2021
+1. [Information Fusion 2021] **Towards multi-modal causability with Graph Neural Networks enabling information fusion for explainable AI
+** [[paper]](https://www.sciencedirect.com/science/article/pii/S1566253521000142)
 1. [ICDM 2021] **A Multi-view Confidence-calibrated Framework for Fair and Stable Graph Representation Learning
 ** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9679093&casa_token=-YEdbpXuQYYAAAAA:XGpJ-yf6lXD8U9-smhmhom7IE7c_XhplHePMDolzZJ9BTxJThOptcaXIEIIEfhB6phfq2Q&tag=1)
 1. [arXiv 2021] **Preserve, Promote, or Attack? GNN Explanation via Topology Perturbation** [[paper]](https://arxiv.org/pdf/2103.13944.pdf)
