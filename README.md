@@ -34,6 +34,7 @@ This repository contains a list of papers on the **Counterfactual Learning for G
 
 
 ### Year 2020
+1. [arXiv 2020] **Wireless Power Control via Counterfactual Optimization of Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2002.07631.pdf)
 1. [AIES 2020] **FACE:Feasible and Actionable Counterfactual Explanations** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3375627.3375850)
 
 ### Year 2019
