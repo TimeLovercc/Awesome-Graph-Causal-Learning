@@ -10,7 +10,8 @@ This repository contains a list of papers on the **Counterfactual Learning for G
 
 ## Latest Papers
 ### Year 2022
-1. [Chemical Science 2022] **Model agnostic generation of counterfactual explanations for molecules** [[paper]]([https://arxiv.org/pdf/2206.01900.pdf](https://pubs.rsc.org/en/content/articlehtml/2022/sc/d1sc05259d))
+1. [Chemrxiv 2022] **Capturing Molecular Interactions in Graph Neural Networks: A Case Study in Multi-Component Phase Equilibrium** [[paper]](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/626e8217ebac3a1603e9d3d0/original/capturing-molecular-interactions-in-graph-neural-networks-a-case-study-in-multi-component-phase-equilibrium.pdf)
+1. [Chemical Science 2022] **Model agnostic generation of counterfactual explanations for molecules** [[paper]]([https://pubs.rsc.org/en/content/articlehtml/2022/sc/d1sc05259d)
 1. [arXiv 2022] **Estimating counterfactual treatment outcomes over time in complex multi-agent scenarios** [[paper]](https://arxiv.org/pdf/2206.01900.pdf)
 1. [arXiv 2022] **GRETEL: A unified framework for Graph Counterfactual Explanation Evaluation** [[paper]](https://arxiv.org/pdf/2206.02957.pdf)
 1. [WSDM 2022] **Learning Fair Node Representations with Graph Counterfactual Fairness** [[paper]](https://arxiv.org/pdf/2201.03662.pdf)
