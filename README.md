@@ -55,3 +55,4 @@ This repository contains a list of papers on the **Counterfactual Learning for G
 ## Tutorials
 1. [KDD 2018] **Tutorial on Causal Inference and Counterfactual Reasoning** [[Link]](https://causalinference.gitlab.io/kdd-tutorial/)
 2. [CS7792 Cornell] **Counterfactual Machine Learning** [[Link]](https://www.cs.cornell.edu/courses/cs7792/2018fa/)
+2. [Book] **Counterfactual Explanations** [[Link]](https://christophm.github.io/interpretable-ml-book/counterfactual.html)
