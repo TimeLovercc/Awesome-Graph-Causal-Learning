@@ -57,4 +57,6 @@ This repository contains a list of papers on the **Counterfactual Learning for G
 2. [CS7792 Cornell] **Counterfactual Machine Learning** [[Link]](https://www.cs.cornell.edu/courses/cs7792/2018fa/)
 2. [Book] **Counterfactual Explanations** [[Link]](https://christophm.github.io/interpretable-ml-book/counterfactual.html)
 2. [Book] **Counterfactuals and Causal Inference** [[Link]](https://edisciplinas.usp.br/pluginfile.php/3984640/mod_resource/content/2/%5BStephen_L._Morgan%2C_Christopher_Winship%5D_Counterfa%28BookFi.org%29%20%281%29%281%29.pdf)
+rpretable-ml-book/counterfactual.html)
+2. [Book] **Causal inference in statistics: An overview** [[Link]](http://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf)
 4. [Video] **Counterfactuals and Mediation** [[Link]](https://www.youtube.com/watch?v=eLPjFDeyUL4)
