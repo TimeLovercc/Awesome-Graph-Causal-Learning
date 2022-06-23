@@ -53,6 +53,8 @@ This repository contains a list of papers on the **Counterfactual Learning for G
 1. [arXiv 2020] **A Survey on Causal Inference** [[paper]](https://arxiv.org/pdf/2002.02770.pdf)
 2. [ICML 2019] **DAG-GNN: DAG Structure Learning with Graph Neural Networks** [[paper]](https://arxiv.org/pdf/1904.10098.pdf)
 3. [ICML 2016] **Learning Representations for Counterfactual Inference** [[paper]](http://proceedings.mlr.press/v48/johansson16.pdf)
+4. [arXiv 2019] **Causality for Machine Learning** [[paper]](https://arxiv.org/pdf/1911.10500.pdf)
+5. [ACM Computing Surveys 2020] **A Survey of Learning Causality with Data: Problems and Methods** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3397269)
 
 ## Tutorials
 1. [KDD 2018] **Tutorial on Causal Inference and Counterfactual Reasoning** [[Link]](https://causalinference.gitlab.io/kdd-tutorial/)
