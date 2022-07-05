@@ -59,6 +59,7 @@ This repository contains a list of papers on the **Counterfactual Learning for G
 4. [arXiv 2019] **Causality for Machine Learning** [[paper]](https://arxiv.org/pdf/1911.10500.pdf)
 5. [ACM Computing Surveys 2020] **A Survey of Learning Causality with Data: Problems and Methods** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3397269)
 6. [Proceedings of IEEE 2021] **Toward Causal Representation Learning** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9363924)
+7. [NeurIPS 2017] **Counterfactual Fairness** [[paper]](https://arxiv.org/pdf/1703.06856.pdf)
 
 ## Tutorials
 1. [KDD 2018] **Tutorial on Causal Inference and Counterfactual Reasoning** [[Link]](https://causalinference.gitlab.io/kdd-tutorial/)
