@@ -10,6 +10,7 @@ This repository contains a list of papers on the **Counterfactual Learning for G
 
 ## Latest Papers
 ### Year 2022
+1. [KDD 2022] **Causal Attention for Interpretable and Generalizable Graph Classification** [[paper]](https://arxiv.org/pdf/2112.15089.pdf)
 1. [CVPR 2022] **Orphicx: A causality-inspired latent variable model for interpreting graph neural networks** [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_OrphicX_A_Causality-Inspired_Latent_Variable_Model_for_Interpreting_Graph_Neural_CVPR_2022_paper.pdf)
 1. [AAAI 2022] **VACA: Designing Variational Graph Autoencoders for Causal Queries** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/20789/20548)
 3. [WWW 2022] **EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512173)
