@@ -29,6 +29,7 @@ This repository contains a list of papers on the **Counterfactual Learning for G
 
 
 ### Year 2021
+1. [SIGIR 2021] **Clicks can be Cheating: Counterfactual Recommendation for Mitigating Clickbait Issue** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3404835.3462962)
 1. [AISTATS 2021] **Causal Inference under Networked Interference and Intervention Policy Enhancement** [[paper]](http://proceedings.mlr.press/v130/ma21c/ma21c.pdf)
 2. [arXiv 2021] **Multivariate Time Series Forecasting with Transfer Entropy Graph** [[paper]](https://arxiv.org/pdf/2005.01185.pdf)
 3. [Information Fusion 2021] **Towards multi-modal causability with Graph Neural Networks enabling information fusion for explainable AI** [[paper]](https://www.sciencedirect.com/science/article/pii/S1566253521000142)
