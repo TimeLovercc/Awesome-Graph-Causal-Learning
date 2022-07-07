@@ -39,6 +39,8 @@ This repository contains a list of papers on the **Counterfactual Learning for G
 8. [NAACL 2021] **Counterfactual Supporting Facts Extraction for Explainable Medical Record Based Diagnosis with Graph Network** [[paper]](https://aclanthology.org/2021.naacl-main.156.pdf)
 9. [ICDM 2021] **Multi-objective Explanations of GNN Predictions** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679172)
 10. [ICML 2021] **Generative Causal Explanations for Graph Neural Networks** [[paper]](https://proceedings.mlr.press/v139/lin21d/lin21d.pdf)
+11. [ICLR 2021 Reject] **Causal Screening to Interpret Graph Neural Networks** [[paper]](https://openreview.net/pdf?id=nzKv5vxZfge)
+
 
 
 ### Year 2020
