@@ -59,6 +59,7 @@ This repository contains a list of papers on the **Counterfactual Learning for G
 ### Year 2019
 1. [NeurIPS 2019 Workshop] **A Graph Autoencoder Approach to Causal Structure Learning** [[paper]](https://arxiv.org/pdf/1911.07420.pdf)
 2. [arXiv 2019] **Cophy: Counterfactual learning of physical dynamics** [[paper]](https://arxiv.org/pdf/1909.12000.pdf)
+2. [arXiv 2019] **ExplaiNE: An Approach for Explaining Network Embedding-based Link Predictions** [[paper]](https://arxiv.org/pdf/1904.12694.pdf)
 
 ## General Papers
 1. [arXiv 2020] **A Survey on Causal Inference** [[paper]](https://arxiv.org/pdf/2002.02770.pdf)
