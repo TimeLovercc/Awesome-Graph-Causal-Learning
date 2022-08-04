@@ -80,3 +80,4 @@ This repository contains a list of papers on the **Counterfactual Learning for G
 2. [Book] **Counterfactuals and Causal Inference** [[Link]](https://edisciplinas.usp.br/pluginfile.php/3984640/mod_resource/content/2/%5BStephen_L._Morgan%2C_Christopher_Winship%5D_Counterfa%28BookFi.org%29%20%281%29%281%29.pdf)
 2. [Book] **Causal inference in statistics: An overview** [[Link]](http://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf)
 4. [Video] **Counterfactuals and Mediation** [[Link]](https://www.youtube.com/watch?v=eLPjFDeyUL4)
+4. [RecSys 2021] **Counterfactual Learning and Evaluation for Recommender Systems: Foundations, Implementations, and Recent Advances** [[Link]](https://sites.google.com/cornell.edu/recsys2021tutorial)
