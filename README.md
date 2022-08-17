@@ -10,6 +10,7 @@ This repository contains a list of papers on the **Counterfactual Learning for G
 
 ## Latest Papers
 ### Year 2022
+1. [arXiv 2022] **GREASE: Generate Factual and Counterfactual Explanations for GNN-based Recommendations** [[paper]](https://arxiv.org/pdf/2208.04222.pdf)
 1. [arXiv 2022] **FairEdit: Preserving Fairness in Graph Neural Networks through Greedy Graph Editing** [[paper]](https://arxiv.org/pdf/2201.03681.pdf)
 1. [AAAI 2022] **Explaining GNN over Evolving Graphs using Information Flow** [[paper]](https://arxiv.org/pdf/2111.10037.pdf)
 1. [KDD 2022] **Causal Attention for Interpretable and Generalizable Graph Classification** [[paper]](https://arxiv.org/pdf/2112.15089.pdf)
