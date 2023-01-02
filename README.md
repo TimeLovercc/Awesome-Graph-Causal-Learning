@@ -1,6 +1,6 @@
 # Awesome Graph Causal Learning
 
-[PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This repository contains a list of papers on the **Counterfactual Learning for Graphs**, we categorize them into tutorials, general papers for counterfactual learning and latest papers for counterfactual learning on graphs. For the latest papers about counterfactual learning for graphs, we categorized them based on the published year.
 
