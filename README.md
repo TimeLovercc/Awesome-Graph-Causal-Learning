@@ -29,7 +29,7 @@ Markdown format:
   [[code]](link)
   - Author 1, Author 2, **and** Author 3. *Conference/Journal*, Year.
 ```
-**Note**: In the same year, please place the conference paper before the journal paper, as journals are usually submitted a long time ago and therefore have some lag. (*i.e.*, Conferences-->Journals-->Preprints)
+**Note**: In the same year, please place the conference paper before the journal paper, as journals are usually submitted a long time ago and therefore have some lag. (*i.e.*, Conferences-->Preprints-->Journals)
 
 ## Table of Contents
 - [Not for Graph](#not-for-graph)
@@ -150,63 +150,65 @@ Markdown format:
   - Wanyu Lin, Hao Lan, and Baochun Li. *ICML*, 2021.
 2. [SIGIR 2021] **Clicks can be Cheating: Counterfactual Recommendation for Mitigating Clickbait Issue.
   [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3404835.3462962)
-  - 
+  - Wenjie Wang, Fuli Feng, Xiangnan He, Hanwang Zhang, and Tat-Seng Chua. *SIGIR*, 2021.
 3. [AISTATS 2021] **Causal Inference under Networked Interference and Intervention Policy Enhancement.
   [[pdf]](http://proceedings.mlr.press/v130/ma21c/ma21c.pdf)
-  - 
+  - Yunpu Ma, and Volker Tresp. *AISTATS*, 2021.
 4. [arXiv 2021] **Multivariate Time Series Forecasting with Transfer Entropy Graph.
   [[pdf]](https://arxiv.org/pdf/2005.01185.pdf)
-  - 
+  - Ziheng Duan, Haoyan Xu, Yida Huang, Jie Feng, and Yueyang Wang. *arXiv*, 2021.
 5. [Information Fusion 2021] **Towards multi-modal causability with Graph Neural Networks enabling information fusion for explainable AI.
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S1566253521000142)
+  - Andreas Holzinger, Bernd Malle, Anna Saranti, and Bastian Pfeifer. *Information Fusion*, 2021.
 6. [ICDM 2021] **A Multi-view Confidence-calibrated Framework for Fair and Stable Graph Representation Learning.
   [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9679093&casa_token=-YEdbpXuQYYAAAAA:XGpJ-yf6lXD8U9-smhmhom7IE7c_XhplHePMDolzZJ9BTxJThOptcaXIEIIEfhB6phfq2Q&tag=1)
+  - Xu Zhang, Liang Zhang, Bo Jin, and Xinjiang Lu. *ICDM*, 2021.
 7. [arXiv 2021] **Preserve, Promote, or Attack? GNN Explanation via Topology Perturbation.
   [[pdf]](https://arxiv.org/pdf/2103.13944.pdf)
-  - 
-8. [arXiv 2021] **Counterfactual Graph Learning for Link Prediction.
+  - Yi Sun, Abel Valente, Sijia Liu, and Dakuo Wang. *arXiv*, 2021.
+8. [arXiv 2021] **Learning from Counterfactual Links for Link Prediction.
   [[pdf]](https://arxiv.org/pdf/2106.02172.pdf)
-  - 
+  - Tong Zhao, Gang Liu, Daheng Wang, Wenhao Yu, and Meng Jiang. *ICML*, 2022.
 9. [arXiv 2021] **Fairness-Aware Node Representation Learning.
   [[pdf]](https://arxiv.org/pdf/2106.05391.pdf)
-  - 
+  - O. Deniz Kose, and Yanning Shen. *arXiv*, 2021.
 10. [arXiv 2021] **Relating Graph Neural Networks to Structural Causal Models.
   [[pdf]](https://128.84.4.13/pdf/2109.04173.pdf)
-  - 
+  - Matej Zečević, Devendra Singh Dhami, Petar Veličković, and Kristian Kersting. *arXiv*, 2021.
 1-[AISTATS 2021] **CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2102.03322.pdf)
-  - 
+  - Ana Lucic, Maartje ter Hoeve, Gabriele Tolomei, Maarten de Rijke, and Fabrizio Silvestri. *arXiv*, 2021.
 12. [NeurIPS 2021] **Robust Counterfactual Explanations on Graph Neural Networks.
   [[pdf]](https://proceedings.neurips.cc/paper/2021/file/2c8c3a57383c63caef6724343eb62257-Paper.pdf)
-  - 
+  - Mohit Bajaj, Lingyang Chu, Zi Yu Xue, Jian Pei, Lanjun Wang, Peter Cho-Ho Lam, and Yong Zhang. *arXiv*, 2021.
 13. [UAI 2021] **Towards a Unified Framework for Fair and Stable Graph Representation Learning.
   [[pdf]](https://proceedings.mlr.press/v161/agarwal21b/agarwal21b.pdf)
-  - 
+  - Chirag Agarwal, Himabindu Lakkaraju, and Marinka Zitnik. *UAI*, 2021.
 14. [IJCNN 2021] **MEG: Generating Molecular Counterfactual Explanations for Deep Graph Networks.
   [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9534266)
+  - Danilo Numeroso, and Davide Bacciu. *IJCNN*, 2021.
 15. [KDD 2021] **Counterfactual Graphs for Explainable Classification of Brain Networks.
   [[pdf]](https://arxiv.org/pdf/2106.08640.pdf)
-  - 
+  - Carlo Abrate, and Francesco Bonchi. *KDD*, 2021.
 16. [NAACL 2021] **Counterfactual Supporting Facts Extraction for Explainable Medical Record Based Diagnosis with Graph Network.
   [[pdf]](https://aclanthology.org/2021.naacl-main.156.pdf)
-  - 
+  - Haoran Wu, Wei Chen, Shuang Xu, and Bo Xu. *NAACL*, 2021.
 17. [ICDM 2021] **Multi-objective Explanations of GNN Predictions.
   [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679172)
+  - Yifei Liu, Chao Chen, Yazheng Liu, Xi Zhang, and Sihong Xie. *ICDM*, 2021.
 18. [ICML 2021] **Generative Causal Explanations for Graph Neural Networks.
   [[pdf]](https://proceedings.mlr.press/v139/lin21d/lin21d.pdf)
-  - 
-19. [ICLR 2021 Reject] **Causal Screening to Interpret Graph Neural Networks.
-  [[pdf]](https://openreview.net/pdf?id=nzKv5vxZfge)
+  - Wanyu Lin, Hao Lan, and Baochun Li. *ICML*, 2021.
 
 
 
 ### Year 2020
 -[NeurIPS 2020] **Causal Discovery in Physical Systems from Videos.
   [[pdf]](https://arxiv.org/pdf/2007.00631.pdf)
-  - 
+  - Yunzhu Li, Antonio Torralba, Anima Anandkumar, Dieter Fox, and Animesh Garg. *NeurIPS*, 2020.
 -[arXiv 2020] **Wireless Power Control via Counterfactual Optimization of Graph Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2002.07631.pdf)
-  - 
+  - Navid Naderializadeh, Mark Eisen, and Alejandro Ribeiro. *arXiv*, 2020.
 -[AIES 2020] **FACE:Feasible and Actionable Counterfactual Explanations.
   [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3375627.3375850)
 2. [arXiv 2020] **Counterfactual multi-agent reinforcement learning with graph convolution communication.
