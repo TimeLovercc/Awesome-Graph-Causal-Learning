@@ -117,6 +117,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2209.14107.pdf)
   - Shaohua Fan, Xiao Wang, Yanhu Mo, Chuan Shi, Jian Tang. *NeurIPS*, 2022.
 
+- Learning Causally Invariant Representations for Out-of-Distribution Generalization on Graphs.
+  [[pdf]](https://arxiv.org/pdf/2202.05441v3.pdf)
+  - Yongqiang Chen, Yonggang Zhang, Yatao Bian, Han Yang, Kaili Ma, Binghui Xie, Tongliang Liu, Bo Han, and James Cheng. *NeurIPS*, 2022.
+
 ### Contrastive Learning
 
 ### Fairness
@@ -241,6 +245,10 @@ Markdown format:
 - DAG-GNN: DAG Structure Learning with Graph Neural Networks.
   [[pdf]](https://arxiv.org/pdf/1904.10098.pdf)
   - Yue Yu, Jie Chen, Tian Gao, and Mo Yu. *ICML*, 2019.
+
+- CausalBench: A Large-scale Benchmark for Network Inference from Single-cell Perturbation Data.
+  [[pdf]](https://arxiv.org/pdf/2210.17283.pdf)
+  - Mathieu Chevalley, Yusuf Roohani, Arash Mehrjou, Jure Leskovec, and Patrick Schwab. *arXiv*, 2022.
 
 ## Causal Effect Estimate
 - Causal Inference under Networked Interference and Intervention Policy Enhancement.
