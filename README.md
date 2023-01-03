@@ -11,7 +11,7 @@ We will try our best to continuously maintain this Repository in weekly manner.
 Graph Causal Learning is an emerging research area and it can be widely applied in dealing with out of distribution, fairness and explanation problems.
 
 ## News
-* 2023/01/05: I change the format of the repo and try to include both causal learning papers and counterfactual learning papers.
+* 2023/01/04: I change the format of the repo and try to include both causal learning papers and counterfactual learning papers.
 
 ## Reference
 If our repo or survey is useful for your research, please cite our paper as follows:
@@ -50,6 +50,10 @@ Markdown format:
 
 
 ## Not for Graph
+- Deep Causal Learning: Representation, Discovery and Inference.
+  [[pdf]](https://arxiv.org/ftp/arxiv/papers/2211/2211.03374.pdf)
+  - Zizhen Deng, Xiaolong Zheng, Hu Tian, and Daniel Dajun Zeng. *arXiv*, 2022.
+
 - Causal Machine Learning: A Survey and Open Problems.
   [[pdf]](https://arxiv.org/pdf/2206.15475.pdf)
   - Jean Kaddour, Aengus Lynch, Qi Liu, Matt J. Kusner, and Ricardo Silva. *arXiv*, 2022.
@@ -83,7 +87,9 @@ Markdown format:
   - Judea Pearl. *Statistics Surveys*, 2009.
 
 ## Survey
-
+- A Survey on Graph Counterfactual Explanations: Definitions, Methods, Evaluation.
+  [[pdf]](https://arxiv.org/pdf/2210.12089.pdf)
+  - Mario Alfonso Prado-Romero, Bardh Prenkaj, Giovanni Stilo, and Fosca Giannotti. *arXiv*, 2022.
 
 ## Toolbox
 
@@ -289,7 +295,7 @@ Markdown format:
 - Cophy: Counterfactual learning of physical dynamics.
   [[pdf]](https://arxiv.org/pdf/1909.12000.pdf)
   - Fabien Baradel, Natalia Neverova, Julien Mille, Greg Mori, and Christian Wolf. *arXiv*, 2019.
-  
+
 ## A Summary of Open-source Codes
 
 
