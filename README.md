@@ -2,7 +2,7 @@
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  ![GitHub stars](https://img.shields.io/github/stars/TimeLovercc/Awesome-Graph-Causal-Learning)
 
-This repository contains a list of **Graph Causal Learning** resources. We also have a survey paper about **Counterfactual Learning on Graphs**. We also include a [Not for Graph](#not-for-graph) section to introduce well-selected materials for beginners to learn causal-related concepts.
+This repository contains a list of **Graph Causal Learning** resources. We also have a survey paper about **Counterfactual Learning on Graphs**. We include a [Not for Graph](#not-for-graph) section to introduce well-selected materials for beginners to learn causal-related concepts.
 We will try our best to continuously maintain this Repository in weekly manner.
 
 **Why Causal Learning?**
