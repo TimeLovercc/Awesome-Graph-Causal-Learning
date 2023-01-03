@@ -19,6 +19,18 @@ If our repo or survey is useful for your research, please cite our paper as foll
 To be done
 ```
 
+## Contributing
+Please help to contribute this list by adding [pull request](https://github.com/TimeLovercc/Awesome-Graph-Causal-Learning/pulls)
+
+Markdown format:
+```markdown
+- Paper Name. 
+  [[pdf]](link) 
+  [[code]](link)
+  - Author 1, Author 2, **and** Author 3. *Conference/Journal*, Year.
+```
+**Note**: In the same year, please place the conference paper before the journal paper, as journals are usually submitted a long time ago and therefore have some lag. (*i.e.*, Conferences-->Journals-->Preprints)
+
 ## Table of Contents
 - [Not for Graph](#not-for-graph)
 - [Survey](#survey)
@@ -63,7 +75,7 @@ To be done
   [[pdf]](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection)
   [[code]](https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark)
   - Yiming Li, Yang Bai, Yong Jiang, Yong Yang, Shu-Tao Xia, and Bo Li. *NeurIPS*, 2022.
-  
+
 ### Counterfactual Explanation
 
 ### Counterfactual Link Prediction and Recommendation
