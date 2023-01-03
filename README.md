@@ -14,14 +14,52 @@ Graph Causal Learning is an emerging research area and it can be widely applied 
 If our repo or survey is useful for your research, please cite our paper as follows:
 ```
 To be done
-}
 ```
 
 ## Table of Contents
-- [Latest Papers](#Latest-Papers)
-- [General Papers](#General-Papers)
-- [Tutorials](#Tutorials)
+- [Survey](#survey)
+- [Toolbox](#toolbox)
+- [Dissertation and Thesis](#dissertation-and-thesis)
+- [Causal Learning](#causal-learning)
+    - [Out of Distribution](#out-of-distribution)
+    - [Contrastive Learning](#contrastive-learning)
+- [Counterfactual Learning](#counterfactual-learning)
+    - [Counterfactual Fairness](#counterfactual-fairness)
+    - [Counterfactual Explanation](#counterfactual-explanation)
+    - [Counterfactual Link Prediction and Recommendation](#counterfactual-link-prediction-and-recommendation)
+- [A Summary of Open-source Codes](#a-summary-of-open-source-codes)
 
+
+## Survey
+
+- PT-DGNN: Pre-training on Dynamic Graph Neural Networks.
+  - J. Zhang, K. Chen, and Y. Wang. *Arxiv 2021*. [[pdf]](https://arxiv.org/pdf/2102.12380.pdf) [[code]](https://github.com/Mobzhang/PT-DGNN)
+
+## Toolbox
+
+
+## Dissertation and Thesis
+
+
+## Causal Learning
+
+#### Out of Distribution
+
+#### Contrastive Learning
+
+
+
+
+## Counterfactual Learning
+
+#### Counterfactual Fairness
+
+#### Counterfactual Explanation
+
+#### Counterfactual Link Prediction and Recommendation
+
+
+## A Summary of Open-source Codes
 
 ## Latest Papers
 ### Year 2022
