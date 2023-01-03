@@ -2,13 +2,16 @@
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  ![GitHub stars](https://img.shields.io/github/stars/TimeLovercc/Awesome-Graph-Causal-Learning)
 
-This repository contains a list of **Graph Causal Learning** resources. We also have a survey paper about **Counterfactual Learning on Graphs**.
+This repository contains a list of **Graph Causal Learning** resources. We also have a survey paper about **Counterfactual Learning on Graphs**. We also include a [Not for Graph](#not-for-graph) section to introduce well-selected materials for beginners to learn causal-related concepts.
 We will try our best to continuously maintain this Repository in weekly manner.
 
 **Why Causal Learning?**
 >Causality connotes lawlike necessity, whereas probabilities connote exceptionality, doubt, and lack of regularity.    --Judea Pearl
 
 Graph Causal Learning is an emerging research area and it can be widely applied in dealing with out of distribution, fairness and explanation problems.
+
+## News
+* 2023/01/05: I change the format of the repo and try to include both causal learning papers and counterfactual learning papers.
 
 ## Reference
 If our repo or survey is useful for your research, please cite our paper as follows:
@@ -17,6 +20,7 @@ To be done
 ```
 
 ## Table of Contents
+- [Not for Graph](#not-for-graph)
 - [Survey](#survey)
 - [Toolbox](#toolbox)
 - [Dissertation and Thesis](#dissertation-and-thesis)
@@ -30,12 +34,15 @@ To be done
 - [A Summary of Open-source Codes](#a-summary-of-open-source-codes)
 
 
+## Not for Graph
+
 ## Survey
 
 - PT-DGNN: Pre-training on Dynamic Graph Neural Networks.
   - J. Zhang, K. Chen, and Y. Wang. *Arxiv 2021*. [[pdf]](https://arxiv.org/pdf/2102.12380.pdf) [[code]](https://github.com/Mobzhang/PT-DGNN)
 
 ## Toolbox
+
 
 
 ## Dissertation and Thesis
