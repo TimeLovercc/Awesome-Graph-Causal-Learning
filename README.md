@@ -31,6 +31,7 @@ To be done
     - [Counterfactual Fairness](#counterfactual-fairness)
     - [Counterfactual Explanation](#counterfactual-explanation)
     - [Counterfactual Link Prediction and Recommendation](#counterfactual-link-prediction-and-recommendation)
+- [Causal Discovery](#causal-discovery)
 - [A Summary of Open-source Codes](#a-summary-of-open-source-codes)
 
 
@@ -64,6 +65,8 @@ To be done
 #### Counterfactual Explanation
 
 #### Counterfactual Link Prediction and Recommendation
+
+## Causal Discovery
 
 
 ## A Summary of Open-source Codes
