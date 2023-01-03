@@ -67,9 +67,13 @@ Markdown format:
 
 ### Fairness
 - FairEdit: Preserving Fairness in Graph Neural Networks through Greedy Graph Editing.
-  [[pdf]]()
-### Explanation
+  [[pdf]](https://arxiv.org/pdf/2201.03681.pdf)
+  - Donald Loveland, Jiayi Pan, Aaresh Farrokh Bhathena, and Yiyang Lu. *arXiv, 2022.
 
+### Explanation
+- Explaining GNN over Evolving Graphs using Information Flow.
+  [[pdf]](https://arxiv.org/pdf/2111.10037.pdf)
+  - Yazheng Liu, Xi Zhang, and Sihong Xie. *AAAI*, 2022.
 
 ## Counterfactual Learning
 
@@ -81,7 +85,6 @@ Markdown format:
 ### Counterfactual Link Prediction and Recommendation
 - GREASE: Generate Factual and Counterfactual Explanations for GNN-based Recommendations.
   [[pdf]](https://arxiv.org/pdf/2208.04222.pdf)
-  - 
   - Ziheng Chen, Fabrizio Silvestri, Jia Wang, Yongfeng Zhang, Zhenhua Huang, Hongshik Ahn, and Gabriele Tolomei. *arXiv*, 2022.
 
 ## Causal Discovery
@@ -91,15 +94,12 @@ Markdown format:
 
 ## Latest Papers
 ### Year 2022
--[arXiv 2022] **FairEdit: Preserving Fairness in Graph Neural Networks through Greedy Graph Editing.
-  [[pdf]](https://arxiv.org/pdf/2201.03681.pdf)
+
   - 
--[AAAI 2022] **Explaining GNN over Evolving Graphs using Information Flow.
-  [[pdf]](https://arxiv.org/pdf/2111.10037.pdf)
-  - 
+
 -[KDD 2022] **Causal Attention for Interpretable and Generalizable Graph Classification.
   [[pdf]](https://arxiv.org/pdf/2112.15089.pdf)
-  - 
+  - Yongduo Sui, Xiang Wang, Jiancan Wu, Min Lin, Xiangnan He, and Tat-Seng Chua. *KDD*, 2022.
 -[CVPR 2022] **Orphicx: A causality-inspired latent variable model for interpreting graph neural networks.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_OrphicX_A_Causality-Inspired_Latent_Variable_Model_for_Interpreting_Graph_Neural_CVPR_2022_paper.pdf)
   - 
