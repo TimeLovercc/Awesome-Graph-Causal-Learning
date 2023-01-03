@@ -97,47 +97,51 @@ Markdown format:
 
   - 
 
--[KDD 2022] **Causal Attention for Interpretable and Generalizable Graph Classification.
+- Causal Attention for Interpretable and Generalizable Graph Classification.
   [[pdf]](https://arxiv.org/pdf/2112.15089.pdf)
   - Yongduo Sui, Xiang Wang, Jiancan Wu, Min Lin, Xiangnan He, and Tat-Seng Chua. *KDD*, 2022.
 -[CVPR 2022] **Orphicx: A causality-inspired latent variable model for interpreting graph neural networks.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_OrphicX_A_Causality-Inspired_Latent_Variable_Model_for_Interpreting_Graph_Neural_CVPR_2022_paper.pdf)
-  - 
+  - Wanyu Lin, Hao Lan, Hao Wang, and Baochun Li. *CVPR*, 2022.
 -[AAAI 2022] **VACA: Designing Variational Graph Autoencoders for Causal Queries.
   [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/download/20789/20548)
+  - Pablo Sanchez-Martin, Miriam Rateike, and Isabel Valera. *AAAI*, 2022.
 3. [WWW 2022] **EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks.
   [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512173)
+  - Yushun Dong, Ninghao Liu, Brian Jalaian, and Jundong Li. *WWW*, 2022.
 4. [AAAI 2022] **Deconfounding Physical Dynamics with Global Causal Relation and Confounder Transmission for Counterfactual Prediction.
   [[pdf]](https://www.aaai.org/AAAI22Papers/AAAI-3051.LiZ.pdf)
-  - 
+  - Zongzhao Li, Xiangyu Zhu, Zhen Lei1, and Zhaoxiang Zhang. *AAAI*, 2022.
 5. [Chemrxiv 2022] **Capturing Molecular Interactions in Graph Neural Networks: A Case Study in Multi-Component Phase Equilibrium.
   [[pdf]](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/626e8217ebac3a1603e9d3d0/original/capturing-molecular-interactions-in-graph-neural-networks-a-case-study-in-multi-component-phase-equilibrium.pdf)
-  - 
+  - Shiyi Qin, Shengli Jiang, Jianping Li, Prasanna Balaprakash1, Reid C. Van Lehn, and Victor M. Zavala. *Chemrxiv*, 2022.
 6. [Chemical Science 2022] **Model agnostic generation of counterfactual explanations for molecules.
   [[pdf]](https://pubs.rsc.org/en/content/articlehtml/2022/sc/d1sc05259d)
+  - Geemi P. Wellawatte, Aditi Seshadri, and Andrew D. White. *Chemical Science*, 2022.
 7. [arXiv 2022] **Estimating counterfactual treatment outcomes over time in complex multi-agent scenarios.
   [[pdf]](https://arxiv.org/pdf/2206.01900.pdf)
-  - 
+  - Keisuke Fujii, Koh Takeuchi, Atsushi Kuribayashi, Naoya Takeishi, Yoshinobu Kawahara, and Kazuya Takeda. *arXiv*, 2022.
 8. [arXiv 2022] **GRETEL: A unified framework for Graph Counterfactual Explanation Evaluation.
   [[pdf]](https://arxiv.org/pdf/2206.02957.pdf)
-  - 
+  - Mario Alfonso Prado-Romero, and Giovanni Stilo. *arXiv*, 2022.
 9. [WSDM 2022] **Learning Fair Node Representations with Graph Counterfactual Fairness.
   [[pdf]](https://arxiv.org/pdf/2201.03662.pdf)
-  - 
+  - Jing Ma, Ruocheng Guo, Mengting Wan, Longqi Yang, Aidong Zhang, and Jundong Li. *WSDM*, 2022.
 10. [WWW 2022] **Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning.
   [[pdf]](https://arxiv.org/pdf/2202.08816.pdf)
-  - 
+  - Juntao Tan, Shijie Geng, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, Yunqi Li, and Yongfeng Zhang. *WWW*, 2022.
 1-[Dissertation] **Flow-based counterfactuals for interpretable graph node classification.
   [[pdf]](https://www.mi.fu-berlin.de/inf/groups/ag-ki/Theses/Completed-theses/Bachelor-theses/2022/Ohly/thesis_ohly.pdf)
-  - 
+  - Lorenz Ohly. *Bachelar Disseration at Freie Universität Berlin*, 2022.
 12. [AISTATS 2022] **Probing GNN Explainers: A Rigorous Theoretical and Empirical Analysis of GNN Explanation Methods.
   [[pdf]](https://arxiv.org/pdf/2106.09078.pdf)
-  - 
+  - Chirag Agarwal, Marinka Zitnik, and Himabindu Lakkaraju. *AISTATS*, 2022.
 13. [TPAMI 2022] **Reinforced Causal Explainer for Graph Neural Networks.
   [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9763330&casa_token=9DbMc0tWMUEAAAAA:T8-jj7iyCoho6IertAUHY9oWPd-RNJSA0AYkbHA6r3NGbz1AMRAnF4ZcKH-wzBJnO84YJQ)
+  - Xiang Wang, Yingxin Wu, An Zhang, Fuli Feng, Xiangnan He, and Tat-Seng Chua. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2022.
 14. [AAAI 2022] **CausalGNN: Causal-based Graph Neural Networks for Spatio-Temporal Epidemic Forecasting.
   [[pdf]](https://www.aaai.org/AAAI22Papers/AISI-6475.WangL.pdf)
-  - 
+  - Lijing Wang, Aniruddha Adiga, Jiangzhuo Chen, Adam Sadilek, Srinivasan Venkatramanan, and Madhav Marathe. *AAAI*, 2022.
 
 
 ### Year 2021
