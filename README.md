@@ -99,6 +99,18 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2112.15089.pdf)
   - Yongduo Sui, Xiang Wang, Jiancan Wu, Min Lin, Xiangnan He, and Tat-Seng Chua. *KDD*, 2022.
 
+- Discovering Invariant Rationales for Graph Neural Networks.
+  [[pdf]](https://openreview.net/pdf?id=hGXij5rfiHw)
+  - Ying-Xin Wu, Xiang Wang, An Zhang, Xiangnan He, and Tat-Seng Chua. *ICLR*, 2022.
+
+- Handling Distribution Shifts on Graphs: An Invariance Perspective.
+  [[pdf]](https://openreview.net/pdf?id=FQOC5u-1egI)
+  - Qitian Wu, Hengrui Zhang, Junchi Yan, and David Wipf. *ICLR*, 2022.
+
+- Debiasing Graph Neural Networks via Learning Disentangled Causal Substructure.
+  [[pdf]](https://arxiv.org/pdf/2209.14107.pdf)
+  - Shaohua Fan, Xiao Wang, Yanhu Mo, Chuan Shi, Jian Tang. *NeurIPS*, 2022.
+
 ### Contrastive Learning
 
 ### Fairness
@@ -110,9 +122,6 @@ Markdown format:
   [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/download/20789/20548)
   - Pablo Sanchez-Martin, Miriam Rateike, and Isabel Valera. *AAAI*, 2022.
 
-- A Multi-view Confidence-calibrated Framework for Fair and Stable Graph Representation Learning.
-  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9679093&casa_token=-YEdbpXuQYYAAAAA:XGpJ-yf6lXD8U9-smhmhom7IE7c_XhplHePMDolzZJ9BTxJThOptcaXIEIIEfhB6phfq2Q&tag=1)
-  - Xu Zhang, Liang Zhang, Bo Jin, and Xinjiang Lu. *ICDM*, 2021.
 ### Explanation
 - Explaining GNN over Evolving Graphs using Information Flow.
   [[pdf]](https://arxiv.org/pdf/2111.10037.pdf)
@@ -144,13 +153,18 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2201.03662.pdf)
   - Jing Ma, Ruocheng Guo, Mengting Wan, Longqi Yang, Aidong Zhang, and Jundong Li. *WSDM*, 2022.
 
+- Towards a Unified Framework for Fair and Stable Graph Representation Learning.
+  [[pdf]](https://proceedings.mlr.press/v161/agarwal21b/agarwal21b.pdf)
+  - Chirag Agarwal, Himabindu Lakkaraju, and Marinka Zitnik. *UAI*, 2021.
+
+- A Multi-view Confidence-calibrated Framework for Fair and Stable Graph Representation Learning.
+  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9679093&casa_token=-YEdbpXuQYYAAAAA:XGpJ-yf6lXD8U9-smhmhom7IE7c_XhplHePMDolzZJ9BTxJThOptcaXIEIIEfhB6phfq2Q&tag=1)
+  - Xu Zhang, Liang Zhang, Bo Jin, and Xinjiang Lu. *ICDM*, 2021.
+
 - Fairness-Aware Node Representation Learning.
   [[pdf]](https://arxiv.org/pdf/2106.05391.pdf)
   - O. Deniz Kose, and Yanning Shen. *arXiv*, 2021.
 
-- Towards a Unified Framework for Fair and Stable Graph Representation Learning.
-  [[pdf]](https://proceedings.mlr.press/v161/agarwal21b/agarwal21b.pdf)
-  - Chirag Agarwal, Himabindu Lakkaraju, and Marinka Zitnik. *UAI*, 2021.
 ### Counterfactual Explanation
 - Model agnostic generation of counterfactual explanations for molecules.
   [[pdf]](https://pubs.rsc.org/en/content/articlehtml/2022/sc/d1sc05259d)
@@ -195,7 +209,6 @@ Markdown format:
 - FACE:Feasible and Actionable Counterfactual Explanations.
   [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3375627.3375850)
   - Rafael Poyiadzi, Kacper Sokol, Raul Santos-Rodriguez, Tijl De Bie, and Peter Flach. *AIES*, 2020.
-
 
 ### Counterfactual Link Prediction and Recommendation
 - GREASE: Generate Factual and Counterfactual Explanations for GNN-based Recommendations.
@@ -276,6 +289,7 @@ Markdown format:
 - Cophy: Counterfactual learning of physical dynamics.
   [[pdf]](https://arxiv.org/pdf/1909.12000.pdf)
   - Fabien Baradel, Natalia Neverova, Julien Mille, Greg Mori, and Christian Wolf. *arXiv*, 2019.
+  
 ## A Summary of Open-source Codes
 
 
