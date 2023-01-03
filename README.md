@@ -10,6 +10,12 @@ We will try our best to continuously maintain this Repository in weekly manner.
 
 Graph Causal Learning is an emerging research area and it can be widely applied in dealing with out of distribution, fairness and explanation problems.
 
+## Reference
+If our repo or survey is useful for your research, please cite our paper as follows:
+```
+To be done
+}
+```
 
 ## Table of Contents
 - [Latest Papers](#Latest-Papers)
