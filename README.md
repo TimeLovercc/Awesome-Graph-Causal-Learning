@@ -51,8 +51,6 @@ Markdown format:
 
 ## Survey
 
-- PT-DGNN: Pre-training on Dynamic Graph Neural Networks.
-  - J. Zhang, K. Chen, and Y. Wang. *Arxiv 2021*. [[pdf]](https://arxiv.org/pdf/2102.12380.pdf) [[code]](https://github.com/Mobzhang/PT-DGNN)
 
 ## Toolbox
 
@@ -71,15 +69,14 @@ Markdown format:
 ## Counterfactual Learning
 
 ### Counterfactual Fairness
-- Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection.
-  [[pdf]](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection)
-  [[code]](https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark)
-  - Yiming Li, Yang Bai, Yong Jiang, Yong Yang, Shu-Tao Xia, and Bo Li. *NeurIPS*, 2022.
+
 
 ### Counterfactual Explanation
 
 ### Counterfactual Link Prediction and Recommendation
-
+- GREASE: Generate Factual and Counterfactual Explanations for GNN-based Recommendations.
+  [[pdf]](https://arxiv.org/pdf/2208.04222.pdf)
+  - Ziheng Chen, Fabrizio Silvestri, Jia Wang, Yongfeng Zhang, Zhenhua Huang, Hongshik Ahn, and Gabriele Tolomei. *arXiv*, 2022.
 ## Causal Discovery
 
 
@@ -87,7 +84,6 @@ Markdown format:
 
 ## Latest Papers
 ### Year 2022
-1. [arXiv 2022] **GREASE: Generate Factual and Counterfactual Explanations for GNN-based Recommendations** [[paper]](https://arxiv.org/pdf/2208.04222.pdf)
 1. [arXiv 2022] **FairEdit: Preserving Fairness in Graph Neural Networks through Greedy Graph Editing** [[paper]](https://arxiv.org/pdf/2201.03681.pdf)
 1. [AAAI 2022] **Explaining GNN over Evolving Graphs using Information Flow** [[paper]](https://arxiv.org/pdf/2111.10037.pdf)
 1. [KDD 2022] **Causal Attention for Interpretable and Generalizable Graph Classification** [[paper]](https://arxiv.org/pdf/2112.15089.pdf)
