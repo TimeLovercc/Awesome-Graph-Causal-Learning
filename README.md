@@ -37,6 +37,7 @@ Markdown format:
 - [Toolbox](#toolbox)
 - [Dissertation and Thesis](#dissertation-and-thesis)
 - [Causal Learning](#causal-learning)
+    - [Node Classification](#node-classification)
     - [Out of Distribution](#out-of-distribution)
     - [Contrastive Learning](#contrastive-learning)
 - [Counterfactual Learning](#counterfactual-learning)
@@ -45,6 +46,7 @@ Markdown format:
     - [Counterfactual Link Prediction and Recommendation](#counterfactual-link-prediction-and-recommendation)
 - [Causal Discovery](#causal-discovery)
 - [Causal Effect Estimate](#causal-effect-estimate)
+- 
 - [Application](#application)
 - [A Summary of Open-source Codes](#a-summary-of-open-source-codes)
 
@@ -100,6 +102,15 @@ Markdown format:
 
 ## Causal Learning
 
+### Node Classification
+- Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism.
+  [[pdf]](https://proceedings.mlr.press/v162/miao22a/miao22a.pdf)
+  - Siqi Miao, Miaoyuan Liu, and Pan Li. *ICML*, 2022.
+
+- Graph Rationalization with Environment-based Augmentations.
+  [[pdf]](https://arxiv.org/pdf/2206.02886.pdf)
+  - Gang Liu, Tong Zhao, Jiaxin Xu, Tengfei Luo, and Meng Jiang. *KDD*, 2022.
+
 ### Out of Distribution
 - Causal Attention for Interpretable and Generalizable Graph Classification.
   [[pdf]](https://arxiv.org/pdf/2112.15089.pdf)
@@ -121,7 +132,32 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2202.05441v3.pdf)
   - Yongqiang Chen, Yonggang Zhang, Yatao Bian, Han Yang, Kaili Ma, Binghui Xie, Tongliang Liu, Bo Han, and James Cheng. *NeurIPS*, 2022.
 
+- Dynamic graph neural networks under spatio-temporal distribution shift.
+  [[pdf]](https://openreview.net/pdf?id=1tIUqrUuJxx)
+  - Zeyang Zhang, Xin Wang, Ziwei Zhang, Haoyang Li, Zhou Qin, and Wenwu Zhu. *NeurIPS*, 2022.
+
+- Learning Substructure Invariance for Out-of-Distribution Molecular Representations.
+  [[pdf]](https://openreview.net/pdf?id=2nWUNTnFijm)
+  - Nianzu Yang, Kaipeng Zeng, Qitian Wu, Xiaosong Jia, and Junchi Yan. *NeurIPS*, 2022.
+
+- Learning Causally Invariant Representations for Out-of-Distribution Generalization on Graphs.
+  [[pdf]](https://arxiv.org/pdf/2202.05441.pdf)
+  - Yongqiang Chen, Yonggang Zhang, Yatao Bian, Han Yang, Kaili Ma, and Binghui Xie. *NeurIPS*, 2022.
+
+- Adversarial Causal Augmentation for Graph Covariate Shift.
+  [[pdf]](https://arxiv.org/pdf/2211.02843.pdf)
+  - Yongduo Sui, Xiang Wang, Jiancan Wu, An Zhang, and Xiangnan He. *arXiv*, 2022.
+
+- Robust Causal Graph Representation Learning against Confounding Effects.
+  [[pdf]](https://arxiv.org/pdf/2208.08584.pdf)
+  - Hang Gao, Jiangmeng Li, Wenwen Qiang, Lingyu Si, Bing Xu, Changwen Zheng, and Fuchun Sun. *arXiv*, 2022.
+
 ### Contrastive Learning
+- Let Invariant Rationale Discovery Inspire Graph Contrastive Learning.
+  [[pdf]](https://proceedings.mlr.press/v162/li22v/li22v.pdf)
+  - Sihang Li, Xiang Wang, An zhang, Yingxin Wu, Xiangnan He, and Tat-Seng Chua. *ICML*, 2022.
+
+- 
 
 ### Fairness
 - FairEdit: Preserving Fairness in Graph Neural Networks through Greedy Graph Editing.
@@ -221,6 +257,10 @@ Markdown format:
   - Rafael Poyiadzi, Kacper Sokol, Raul Santos-Rodriguez, Tijl De Bie, and Peter Flach. *AIES*, 2020.
 
 ### Counterfactual Link Prediction and Recommendation
+- Causality-based CTR prediction using graph neural networks.
+  [[pdf]](https://www.sciencedirect.com/sdfe/reader/pii/S0306457322002382/pdf)
+  - Panyu Zhai, Yanwu, Yang, and Chunjie Zhang. *Information Processing & Management*, 2023.
+
 - GREASE: Generate Factual and Counterfactual Explanations for GNN-based Recommendations.
   [[pdf]](https://arxiv.org/pdf/2208.04222.pdf)
   - Ziheng Chen, Fabrizio Silvestri, Jia Wang, Yongfeng Zhang, Zhenhua Huang, Hongshik Ahn, and Gabriele Tolomei. *arXiv*, 2022.
@@ -254,6 +294,11 @@ Markdown format:
 - Causal Inference under Networked Interference and Intervention Policy Enhancement.
   [[pdf]](http://proceedings.mlr.press/v130/ma21c/ma21c.pdf)
   - Yunpu Ma, and Volker Tresp. *AISTATS*, 2021.
+
+## Benchmark
+- GOOD: A Graph Out-of-Distribution Benchmark.
+  [[pdf]](https://arxiv.org/pdf/2206.08452.pdf)
+  - Shurui Gui, Xiner Li, Limei Wang, and Shuiwang Ji. *NeurIPS Track on Datasets and Benchmarks*, 2022.
 
 ## Application
 - Deconfounding Physical Dynamics with Global Causal Relation and Confounder Transmission for Counterfactual Prediction.
