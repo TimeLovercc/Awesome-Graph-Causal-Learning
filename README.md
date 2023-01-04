@@ -44,7 +44,7 @@ Markdown format:
     - [Counterfactual Link Prediction and Recommendation](#counterfactual-link-prediction-and-recommendation)
 - [Causal Discovery](#causal-discovery)
 - [Causal Effect Estimate](#causal-effect-estimate)
-- 
+- [Benchmark](#benchmark)
 - [Application](#application)
 - [A Summary of Open-source Codes](#a-summary-of-open-source-codes)
 
