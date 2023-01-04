@@ -174,10 +174,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2104.06643.pdf)
   - Wanyu Lin, Hao Lan, and Baochun Li. *ICML*, 2021.
 
-- Generative Causal Explanations for Graph Neural Networks.
-  [[pdf]](https://proceedings.mlr.press/v139/lin21d/lin21d.pdf)
-  - Wanyu Lin, Hao Lan, and Baochun Li. *ICML*, 2021.
-
 - ExplaiNE: An Approach for Explaining Network Embedding-based Link Predictions.
   [[pdf]](https://arxiv.org/pdf/1904.12694.pdf)
   - Bo Kang, Jefrey Lijffijt, and Tijl De Bie. *arXiv*, 2019.
