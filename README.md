@@ -34,8 +34,6 @@ Markdown format:
 ## Table of Contents
 - [Not for Graph](#not-for-graph)
 - [Survey](#survey)
-- [Toolbox](#toolbox)
-- [Dissertation and Thesis](#dissertation-and-thesis)
 - [Causal Learning](#causal-learning)
     - [Node Classification](#node-classification)
     - [Out of Distribution](#out-of-distribution)
@@ -93,13 +91,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2210.12089.pdf)
   - Mario Alfonso Prado-Romero, Bardh Prenkaj, Giovanni Stilo, and Fosca Giannotti. *arXiv*, 2022.
 
-## Toolbox
-
-
-
-## Dissertation and Thesis
-
-
 ## Causal Learning
 
 ### Node Classification
@@ -156,8 +147,6 @@ Markdown format:
 - Let Invariant Rationale Discovery Inspire Graph Contrastive Learning.
   [[pdf]](https://proceedings.mlr.press/v162/li22v/li22v.pdf)
   - Sihang Li, Xiang Wang, An zhang, Yingxin Wu, Xiangnan He, and Tat-Seng Chua. *ICML*, 2022.
-
-- 
 
 ### Fairness
 - FairEdit: Preserving Fairness in Graph Neural Networks through Greedy Graph Editing.
