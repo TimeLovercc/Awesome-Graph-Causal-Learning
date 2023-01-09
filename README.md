@@ -96,23 +96,28 @@ Markdown format:
 ### Node Classification
 - Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism.
   [[pdf]](https://proceedings.mlr.press/v162/miao22a/miao22a.pdf)
+  [[code]](https://github.com/Graph-COM/GSAT)
   - Siqi Miao, Miaoyuan Liu, and Pan Li. *ICML*, 2022.
 
 - Graph Rationalization with Environment-based Augmentations.
   [[pdf]](https://arxiv.org/pdf/2206.02886.pdf)
+  [[code]](https://github.com/liugangcode/GREA)
   - Gang Liu, Tong Zhao, Jiaxin Xu, Tengfei Luo, and Meng Jiang. *KDD*, 2022.
 
 ### Out of Distribution
 - Causal Attention for Interpretable and Generalizable Graph Classification.
   [[pdf]](https://arxiv.org/pdf/2112.15089.pdf)
+  [[code]](https://github.com/yongduosui/CAL)
   - Yongduo Sui, Xiang Wang, Jiancan Wu, Min Lin, Xiangnan He, and Tat-Seng Chua. *KDD*, 2022.
 
 - Discovering Invariant Rationales for Graph Neural Networks.
   [[pdf]](https://openreview.net/pdf?id=hGXij5rfiHw)
+  [[code]](https://github.com/Wuyxin/DIR-GNN)
   - Ying-Xin Wu, Xiang Wang, An Zhang, Xiangnan He, and Tat-Seng Chua. *ICLR*, 2022.
 
 - Handling Distribution Shifts on Graphs: An Invariance Perspective.
   [[pdf]](https://openreview.net/pdf?id=FQOC5u-1egI)
+  [[code]]
   - Qitian Wu, Hengrui Zhang, Junchi Yan, and David Wipf. *ICLR*, 2022.
 
 - Debiasing Graph Neural Networks via Learning Disentangled Causal Substructure.
