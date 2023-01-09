@@ -237,9 +237,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2106.08640.pdf)
   - Carlo Abrate, and Francesco Bonchi. *KDD*, 2021.
 
-- FACE:Feasible and Actionable Counterfactual Explanations.
-  [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3375627.3375850)
-  - Rafael Poyiadzi, Kacper Sokol, Raul Santos-Rodriguez, Tijl De Bie, and Peter Flach. *AIES*, 2020.
 
 ### Counterfactual Link Prediction and Recommendation
 - Causality-based CTR prediction using graph neural networks.
