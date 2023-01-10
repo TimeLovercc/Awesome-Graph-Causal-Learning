@@ -38,6 +38,7 @@ Markdown format:
     - [Node Classification](#node-classification)
     - [Out of Distribution](#out-of-distribution)
     - [Contrastive Learning](#contrastive-learning)
+    - [Recommendation](#recommendation)
 - [Counterfactual Learning](#counterfactual-learning)
     - [Counterfactual Fairness](#counterfactual-fairness)
     - [Counterfactual Explanation](#counterfactual-explanation)
@@ -193,6 +194,12 @@ Markdown format:
 - ExplaiNE: An Approach for Explaining Network Embedding-based Link Predictions.
   [[pdf]](https://arxiv.org/pdf/1904.12694.pdf)
   - Bo Kang, Jefrey Lijffijt, and Tijl De Bie. *arXiv*, 2019.
+
+### Recommendation
+- Causality-based CTR prediction using graph neural networks.
+  [[pdf]](https://www.sciencedirect.com/sdfe/reader/pii/S0306457322002382/pdf)
+  - Panyu Zhai, Yanwu, Yang, and Chunjie Zhang. *Information Processing & Management*, 2023.
+
 ## Counterfactual Learning
 
 ### Counterfactual Fairness
@@ -264,10 +271,6 @@ Markdown format:
 
 
 ### Counterfactual Link Prediction and Recommendation
-- Causality-based CTR prediction using graph neural networks.
-  [[pdf]](https://www.sciencedirect.com/sdfe/reader/pii/S0306457322002382/pdf)
-  - Panyu Zhai, Yanwu, Yang, and Chunjie Zhang. *Information Processing & Management*, 2023.
-
 - GREASE: Generate Factual and Counterfactual Explanations for GNN-based Recommendations.
   [[pdf]](https://arxiv.org/pdf/2208.04222.pdf)
   - Ziheng Chen, Fabrizio Silvestri, Jia Wang, Yongfeng Zhang, Zhenhua Huang, Hongshik Ahn, and Gabriele Tolomei. *arXiv*, 2022.
