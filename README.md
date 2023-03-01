@@ -271,6 +271,16 @@ Markdown format:
 
 
 ### Counterfactual Link Prediction and Recommendation
+- Alleviating Spurious Correlations in Knowledge-aware Recommendations through Counterfactual Generator.
+  [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531934?casa_token=ix1Lqmvze-UAAAAA:31ggoL-81DTGg3u7LJNvPgcWm5pboSKgFTwa_rJWQA0U1nmVanE44sE6zdoyL5Wdo9x2vZcYMaGUVw)
+  [[code]](https://github.com/RUCAIBox/CGKR)
+  - Shanlei Mu, Yaliang Li, Wayne Xin Zhao, Jingyuan Wang, Bolin Ding and Ji-Rong Wen. *SIGIR*, 2022.
+
+- Learning from Counterfactual Links for Link Prediction.
+  [[pdf]](https://arxiv.org/pdf/2106.02172.pdf)
+  [[code]](https://github.com/DM2-ND/CFLP)
+  - Tong Zhao, Gang Liu, Daheng Wang, Wenhao Yu, and Meng Jiang. *ICML*, 2022.
+
 - GREASE: Generate Factual and Counterfactual Explanations for GNN-based Recommendations.
   [[pdf]](https://arxiv.org/pdf/2208.04222.pdf)
   - Ziheng Chen, Fabrizio Silvestri, Jia Wang, Yongfeng Zhang, Zhenhua Huang, Hongshik Ahn, and Gabriele Tolomei. *arXiv*, 2022.
@@ -280,10 +290,9 @@ Markdown format:
   [[code]](https://github.com/WenjieWWJ/Clickbait/)
   - Wenjie Wang, Fuli Feng, Xiangnan He, Hanwang Zhang, and Tat-Seng Chua. *SIGIR*, 2021.
 
-- Learning from Counterfactual Links for Link Prediction.
-  [[pdf]](https://arxiv.org/pdf/2106.02172.pdf)
-  [[code]](https://github.com/DM2-ND/CFLP)
-  - Tong Zhao, Gang Liu, Daheng Wang, Wenhao Yu, and Meng Jiang. *ICML*, 2022.
+- Improving Location Recommendation with Urban Knowledge Graph.
+  [[pdf]](https://arxiv.org/pdf/2111.01013.pdf)
+  - Chang Liu, Chen Gao, Depeng Jin, and Yong Li. *arXiv*, 2021.
 
 ## Causal Discovery
 - Relating Graph Neural Networks to Structural Causal Models.
