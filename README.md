@@ -43,6 +43,7 @@ Markdown format:
     - [Counterfactual Fairness](#counterfactual-fairness)
     - [Counterfactual Explanation](#counterfactual-explanation)
     - [Counterfactual Link Prediction and Recommendation](#counterfactual-link-prediction-and-recommendation)
+    - [Counterfactual Learning in Real-World Applications](#counterfactual-learning-in-real-world-applications)
 - [Causal Discovery](#causal-discovery)
 - [Causal Effect Estimate](#causal-effect-estimate)
 - [Benchmark](#benchmark)
@@ -106,6 +107,10 @@ Markdown format:
   - Gang Liu, Tong Zhao, Jiaxin Xu, Tengfei Luo, and Meng Jiang. *KDD*, 2022.
 
 ### Out of Distribution
+- Introducing Expertise Logic into Graph Representation Learning from A Causal Perspective.
+  [[pdf]](https://arxiv.org/pdf/2301.08496.pdf)
+  - Hang Gao, Jiangmeng Li, Wenwen Qiang, Lingyu Si, Xingzhe Su1, Fengge wu, Changwen Zheng, and Fuchu Sun. *arXiv*, 2023.
+
 - Causal Attention for Interpretable and Generalizable Graph Classification.
   [[pdf]](https://arxiv.org/pdf/2112.15089.pdf)
   [[code]](https://github.com/yongduosui/CAL)
@@ -222,10 +227,19 @@ Markdown format:
   - O. Deniz Kose, and Yanning Shen. *arXiv*, 2021.
 
 ### Counterfactual Explanation
+- Global Counterfactual Explainer for Graph Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2210.11695.pdf)
+  [[code]](https://github.com/mertkosan/GCFExplainer)
+  - Mert Kosan, Zexi Huang, Sourav Medya, Sayan Ranu, and Ambuj Singh. *WSDM*, 2023.
+
 - Model agnostic generation of counterfactual explanations for molecules.
   [[pdf]](https://pubs.rsc.org/en/content/articlehtml/2022/sc/d1sc05259d)
   [[code]](https://github.com/ur-whitelab/exmol)
   - Geemi P. Wellawatte, Aditi Seshadri, and Andrew D. White. *Chemical Science*, 2022.
+
+- Ensemble approaches for Graph Counterfactual Explanations.
+  [[pdf]](https://ceur-ws.org/Vol-3277/paper6.pdf)
+  - Mario Alfonso Prado-Romero, Bardh Prenkaj, Giovanni Stilo, Alessandro Celi, Ernesto Estevanell-Valladares, and Daniel Alejandro Valdés-Pérez. *CEUR-WS*, 2022.
 
 - GRETEL: A unified framework for Graph Counterfactual Explanation Evaluation.
   [[pdf]](https://arxiv.org/pdf/2206.02957.pdf)
@@ -271,6 +285,10 @@ Markdown format:
 
 
 ### Counterfactual Link Prediction and Recommendation
+- Knowledge Graph Completion with Counterfactual Augmentation.
+  [[pdf]](https://arxiv.org/pdf/2302.13083.pdf)
+  - Heng Chang, Jie Cai, and Jia Li. *WWW*, 2023.
+
 - Alleviating Spurious Correlations in Knowledge-aware Recommendations through Counterfactual Generator.
   [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531934?casa_token=ix1Lqmvze-UAAAAA:31ggoL-81DTGg3u7LJNvPgcWm5pboSKgFTwa_rJWQA0U1nmVanE44sE6zdoyL5Wdo9x2vZcYMaGUVw)
   [[code]](https://github.com/RUCAIBox/CGKR)
@@ -294,44 +312,18 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2111.01013.pdf)
   - Chang Liu, Chen Gao, Depeng Jin, and Yong Li. *arXiv*, 2021.
 
-## Causal Discovery
-- Relating Graph Neural Networks to Structural Causal Models.
-  [[pdf]](https://128.84.4.13/pdf/2109.04173.pdf)
-  [[code]](https://anonymous.4open.science/r/Relating-Graph-Neural-Networks-to-Structural-Causal-Models-A8EE/README.md)
-  - Matej Zečević, Devendra Singh Dhami, Petar Veličković, and Kristian Kersting. *arXiv*, 2021.
+### Counterfactual Learning in Real-World Applications
+- Counterfactual based reinforcement learning for graph neural networks.
+  [[pdf]](https://link.springer.com/article/10.1007/s10479-022-04978-9)
+  - David Pham, and Yongfeng Zhang. *Annals of Operations Research*, 2022.
 
-- A Graph Autoencoder Approach to Causal Structure Learning.
-  [[pdf]](https://arxiv.org/pdf/1911.07420.pdf)
-  [[code]](https://github.com/huawei-noah/trustworthyAI)
-  - Ignavier Ng, Shengyu Zhu, Zhitang Chen, and Zhuangyan Fang. *NeurIPS Workshop*, 2019.
-
-- DAG-GNN: DAG Structure Learning with Graph Neural Networks.
-  [[pdf]](https://arxiv.org/pdf/1904.10098.pdf)
-  [[code]](https://github.com/fishmoon1234/DAG-GNN)
-  - Yue Yu, Jie Chen, Tian Gao, and Mo Yu. *ICML*, 2019.
-
-
-
-## Causal Effect Estimate
-- Causal Inference under Networked Interference and Intervention Policy Enhancement.
-  [[pdf]](http://proceedings.mlr.press/v130/ma21c/ma21c.pdf)
-  - Yunpu Ma, and Volker Tresp. *AISTATS*, 2021.
-
-## Benchmark
-- CausalBench: A Large-scale Benchmark for Network Inference from Single-cell Perturbation Data.
-  [[pdf]](https://arxiv.org/pdf/2210.17283.pdf)
-  [[code]](https://github.com/causalbench/causalbench)
-  - Mathieu Chevalley, Yusuf Roohani, Arash Mehrjou, Jure Leskovec, and Patrick Schwab. *arXiv*, 2022.
-
-- GOOD: A Graph Out-of-Distribution Benchmark.
-  [[pdf]](https://arxiv.org/pdf/2206.08452.pdf)
-  [[code]](https://github.com/divelab/GOOD/)
-  - Shurui Gui, Xiner Li, Limei Wang, and Shuiwang Ji. *NeurIPS Track on Datasets and Benchmarks*, 2022.
-
-## Application
 - Deconfounding Physical Dynamics with Global Causal Relation and Confounder Transmission for Counterfactual Prediction.
   [[pdf]](https://www.aaai.org/AAAI22Papers/AAAI-3051.LiZ.pdf)
   - Zongzhao Li, Xiangyu Zhu, Zhen Lei1, and Zhaoxiang Zhang. *AAAI*, 2022.
+
+- Counterfactual and Factual Reasoning over Hypergraphs for Interpretable Clinical Predictions on EHR.
+  [[pdf]](https://proceedings.mlr.press/v193/xu22a/xu22a.pdf)
+  - Ran Xu, Yue Yu, Chao Zhang, Mohammed K Ali, Joyce C Ho, and Carl Yang. *ML4H*, 2022.
 
 - Capturing Molecular Interactions in Graph Neural Networks: A Case Study in Multi-Component Phase Equilibrium.
   [[pdf]](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/626e8217ebac3a1603e9d3d0/original/capturing-molecular-interactions-in-graph-neural-networks-a-case-study-in-multi-component-phase-equilibrium.pdf)
@@ -382,6 +374,43 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1909.12000.pdf)
   [[code]](https://projet.liris.cnrs.fr/cophy/)
   - Fabien Baradel, Natalia Neverova, Julien Mille, Greg Mori, and Christian Wolf. *arXiv*, 2019.
+
+## Causal Discovery
+- Relating Graph Neural Networks to Structural Causal Models.
+  [[pdf]](https://128.84.4.13/pdf/2109.04173.pdf)
+  [[code]](https://anonymous.4open.science/r/Relating-Graph-Neural-Networks-to-Structural-Causal-Models-A8EE/README.md)
+  - Matej Zečević, Devendra Singh Dhami, Petar Veličković, and Kristian Kersting. *arXiv*, 2021.
+
+- A Graph Autoencoder Approach to Causal Structure Learning.
+  [[pdf]](https://arxiv.org/pdf/1911.07420.pdf)
+  [[code]](https://github.com/huawei-noah/trustworthyAI)
+  - Ignavier Ng, Shengyu Zhu, Zhitang Chen, and Zhuangyan Fang. *NeurIPS Workshop*, 2019.
+
+- DAG-GNN: DAG Structure Learning with Graph Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/1904.10098.pdf)
+  [[code]](https://github.com/fishmoon1234/DAG-GNN)
+  - Yue Yu, Jie Chen, Tian Gao, and Mo Yu. *ICML*, 2019.
+
+
+
+## Causal Effect Estimate
+- Causal Inference under Networked Interference and Intervention Policy Enhancement.
+  [[pdf]](http://proceedings.mlr.press/v130/ma21c/ma21c.pdf)
+  - Yunpu Ma, and Volker Tresp. *AISTATS*, 2021.
+
+## Benchmark
+- CausalBench: A Large-scale Benchmark for Network Inference from Single-cell Perturbation Data.
+  [[pdf]](https://arxiv.org/pdf/2210.17283.pdf)
+  [[code]](https://github.com/causalbench/causalbench)
+  - Mathieu Chevalley, Yusuf Roohani, Arash Mehrjou, Jure Leskovec, and Patrick Schwab. *arXiv*, 2022.
+
+- GOOD: A Graph Out-of-Distribution Benchmark.
+  [[pdf]](https://arxiv.org/pdf/2206.08452.pdf)
+  [[code]](https://github.com/divelab/GOOD/)
+  - Shurui Gui, Xiner Li, Limei Wang, and Shuiwang Ji. *NeurIPS Track on Datasets and Benchmarks*, 2022.
+
+## Application
+
 
 ## A Summary of Open-source Codes
 
