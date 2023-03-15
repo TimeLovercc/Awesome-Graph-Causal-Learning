@@ -205,6 +205,16 @@ Markdown format:
   [[pdf]](https://www.sciencedirect.com/sdfe/reader/pii/S0306457322002382/pdf)
   - Panyu Zhai, Yanwu, Yang, and Chunjie Zhang. *Information Processing & Management*, 2023.
 
+### Applications
+- Multivariate Time Series Forecasting with Transfer Entropy Graph.
+  [[pdf]](https://arxiv.org/pdf/2005.01185.pdf)
+  [[code]](https://github.com/RRRussell/CauGNN)
+  - Ziheng Duan, Haoyan Xu, Yida Huang, Jie Feng, and Yueyang Wang. *arXiv*, 2021.
+
+- CausalGNN: Causal-based Graph Neural Networks for Spatio-Temporal Epidemic Forecasting.
+  [[pdf]](https://www.aaai.org/AAAI22Papers/AISI-6475.WangL.pdf)
+  - Lijing Wang, Aniruddha Adiga, Jiangzhuo Chen, Adam Sadilek, Srinivasan Venkatramanan, and Madhav Marathe. *AAAI*, 2022.
+
 ## Counterfactual Learning
 
 ### Counterfactual Fairness
@@ -334,15 +344,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2206.01900.pdf)
   [[code]](https://github.com/TGV-CRN/TGV-CRN)
   - Keisuke Fujii, Koh Takeuchi, Atsushi Kuribayashi, Naoya Takeishi, Yoshinobu Kawahara, and Kazuya Takeda. *arXiv*, 2022.
-
-- CausalGNN: Causal-based Graph Neural Networks for Spatio-Temporal Epidemic Forecasting.
-  [[pdf]](https://www.aaai.org/AAAI22Papers/AISI-6475.WangL.pdf)
-  - Lijing Wang, Aniruddha Adiga, Jiangzhuo Chen, Adam Sadilek, Srinivasan Venkatramanan, and Madhav Marathe. *AAAI*, 2022.
-
-- Multivariate Time Series Forecasting with Transfer Entropy Graph.
-  [[pdf]](https://arxiv.org/pdf/2005.01185.pdf)
-  [[code]](https://github.com/RRRussell/CauGNN)
-  - Ziheng Duan, Haoyan Xu, Yida Huang, Jie Feng, and Yueyang Wang. *arXiv*, 2021.
 
 - Towards multi-modal causability with Graph Neural Networks enabling information fusion for explainable AI.
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S1566253521000142)
