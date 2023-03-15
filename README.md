@@ -39,6 +39,7 @@ Markdown format:
     - [Out of Distribution](#out-of-distribution)
     - [Contrastive Learning](#contrastive-learning)
     - [Recommendation](#recommendation)
+    - [Applications](#applications)
 - [Counterfactual Learning](#counterfactual-learning)
     - [Counterfactual Fairness](#counterfactual-fairness)
     - [Counterfactual Explanation](#counterfactual-explanation)
@@ -47,7 +48,6 @@ Markdown format:
 - [Causal Discovery](#causal-discovery)
 - [Causal Effect Estimate](#causal-effect-estimate)
 - [Benchmark](#benchmark)
-- [Application](#application)
 - [A Summary of Open-source Codes](#a-summary-of-open-source-codes)
 
 
@@ -409,9 +409,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2206.08452.pdf)
   [[code]](https://github.com/divelab/GOOD/)
   - Shurui Gui, Xiner Li, Limei Wang, and Shuiwang Ji. *NeurIPS Track on Datasets and Benchmarks*, 2022.
-
-## Application
-
 
 ## A Summary of Open-source Codes
 
