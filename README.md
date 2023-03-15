@@ -237,10 +237,19 @@ Markdown format:
   - O. Deniz Kose, and Yanning Shen. *arXiv*, 2021.
 
 ### Counterfactual Explanation
+- Evaluating explainability for graph neural networks.
+  [[pdf]](https://arxiv.org/pdf/2208.09339.pdf)
+  [[code]](https://github.com/mims-harvard/GraphXAI)
+  - Chirag Agarwal, Owen Queen, Himabindu Lakkaraju, and Marinka Zitnik. *arXiv*, 2023.
+
 - Global Counterfactual Explainer for Graph Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2210.11695.pdf)
   [[code]](https://github.com/mertkosan/GCFExplainer)
   - Mert Kosan, Zexi Huang, Sourav Medya, Sayan Ranu, and Ambuj Singh. *WSDM*, 2023.
+
+- CLEAR: Generative Counterfactual Explanations on Graphs.
+  [[pdf]](https://arxiv.org/pdf/2210.08443.pdf)
+  - Jing Ma, Ruocheng Guo, Saumitra Mishra, Aidong Zhang, and Jundong Li. *NeurIPS*, 2022.
 
 - Model agnostic generation of counterfactual explanations for molecules.
   [[pdf]](https://pubs.rsc.org/en/content/articlehtml/2022/sc/d1sc05259d)
@@ -323,6 +332,27 @@ Markdown format:
   - Chang Liu, Chen Gao, Depeng Jin, and Yong Li. *arXiv*, 2021.
 
 ### Counterfactual Learning in Real-World Applications
+- Towards Explainable Motion Prediction using Heterogeneous Graph Representations.
+  [[pdf]](https://arxiv.org/pdf/2212.03806.pdf)
+  [[code]](https://github.com/sancarlim/Explainable-MP/tree/v1.1)
+  - Sandra Carrasco, Sylwia Majchrowska, Joakim Johnander, Christoffer Petersson, and David Fernández LLorca. *arXiv*, 2022.
+
+- On the Probability of Necessity and Sufficiency of Explaining Graph Neural Networks: A Lower Bound Optimization Approach.
+  [[pdf]](https://arxiv.org/pdf/2212.07056.pdf)
+  - Ruichu Cai, Yuxuan Zhu, Xuexin Chen, Yuan Fang, Min Wu, Jie Qiao, and Zhifeng Hao. *arXiv*, 2022.
+
+- Counterfactual inference to predict causal knowledge graph for relational transfer learning by assimilating expert knowledge --Relational feature transfer learning algorithm.
+  [[pdf]](https://www.researchgate.net/profile/Jiarui-Li-30/publication/357483911_Counterfactual_inference_to_predict_causal_knowledge_graph_for_relational_transfer_learning_by_assimilating_expert_knowledge_--Relational_feature_transfer_learning_algorithm/links/61d53a31d4500608168d2e0c/Counterfactual-inference-to-predict-causal-knowledge-graph-for-relational-transfer-learning-by-assimilating-expert-knowledge--Relational-feature-transfer-learning-algorithm.pdf)
+  - Jiarui Lia, Yukio Horiguchib, and Tetsuo Sawaragia. *Advanced Engineering Informatics*, 2022.
+
+- Counterfactual Graph Learning for Anomaly Detection on Attributed Networks.
+  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10056298&casa_token=XifKtxBx1NwAAAAA:69C2UBYN-QAHFD9_1RFMnyfxscw4hcljIQ8SKwLS7Ymy1GmQ6S6WVtGr21nt5B-OW94l_cJDvQ&tag=1)
+  - Chunjing Xiao, Xovee Xu, Yue Lei, Kunpeng Zhang, Siyuan Liu, and Fan Zhou. *TKDE*, 2022.
+
+- Counterfactual inference graph network for disease prediction.
+  [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0950705122008711)
+  - Baoliang Zhang, Xiaoxin Guo, Qifeng Lin, Haoren Wang, and Songbai Xu. *Knowledge-Based Systems*, 2022.
+
 - Counterfactual based reinforcement learning for graph neural networks.
   [[pdf]](https://link.springer.com/article/10.1007/s10479-022-04978-9)
   - David Pham, and Yongfeng Zhang. *Annals of Operations Research*, 2022.
