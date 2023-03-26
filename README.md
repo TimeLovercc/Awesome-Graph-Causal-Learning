@@ -89,6 +89,10 @@ Markdown format:
   - Judea Pearl. *Statistics Surveys*, 2009.
 
 ## Survey
+- Causal Discovery from Temporal Data: An Overview and New Perspectives.
+  [[pdf]](https://arxiv.org/pdf/2303.10112.pdf)
+  - Chang Gong, Di Yao, Chuzhe Zhang, Wenbin Li, and Jingping Bi. *arXiv*, 2023.
+
 - A Survey on Graph Counterfactual Explanations: Definitions, Methods, Evaluation.
   [[pdf]](https://arxiv.org/pdf/2210.12089.pdf)
   - Mario Alfonso Prado-Romero, Bardh Prenkaj, Giovanni Stilo, and Fosca Giannotti. *arXiv*, 2022.
@@ -250,7 +254,7 @@ Markdown format:
 - On the Probability of Necessity and Sufficiency of Explaining Graph Neural Networks: A Lower Bound Optimization Approach.
   [[pdf]](https://arxiv.org/pdf/2212.07056.pdf)
   - Ruichu Cai, Yuxuan Zhu, Xuexin Chen, Yuan Fang, Min Wu, Jie Qiao, and Zhifeng Hao. *arXiv*, 2022.
-  
+
 - CLEAR: Generative Counterfactual Explanations on Graphs.
   [[pdf]](https://arxiv.org/pdf/2210.08443.pdf)
   - Jing Ma, Ruocheng Guo, Saumitra Mishra, Aidong Zhang, and Jundong Li. *NeurIPS*, 2022.
