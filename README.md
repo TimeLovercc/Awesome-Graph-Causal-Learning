@@ -247,6 +247,10 @@ Markdown format:
   [[code]](https://github.com/mertkosan/GCFExplainer)
   - Mert Kosan, Zexi Huang, Sourav Medya, Sayan Ranu, and Ambuj Singh. *WSDM*, 2023.
 
+- On the Probability of Necessity and Sufficiency of Explaining Graph Neural Networks: A Lower Bound Optimization Approach.
+  [[pdf]](https://arxiv.org/pdf/2212.07056.pdf)
+  - Ruichu Cai, Yuxuan Zhu, Xuexin Chen, Yuan Fang, Min Wu, Jie Qiao, and Zhifeng Hao. *arXiv*, 2022.
+  
 - CLEAR: Generative Counterfactual Explanations on Graphs.
   [[pdf]](https://arxiv.org/pdf/2210.08443.pdf)
   - Jing Ma, Ruocheng Guo, Saumitra Mishra, Aidong Zhang, and Jundong Li. *NeurIPS*, 2022.
@@ -277,6 +281,10 @@ Markdown format:
 - Probing GNN Explainers: A Rigorous Theoretical and Empirical Analysis of GNN Explanation Methods.
   [[pdf]](https://arxiv.org/pdf/2106.09078.pdf)
   - Chirag Agarwal, Marinka Zitnik, and Himabindu Lakkaraju. *AISTATS*, 2022
+
+- Multi-objective Explanations of GNN Predictions.
+  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679172)
+  - Yifei Liu, Chao Chen, Yazheng Liu, Xi Zhang, and Sihong Xie. *ICDM*, 2021.
 
 - Preserve, Promote, or Attack? GNN Explanation via Topology Perturbation.
   [[pdf]](https://arxiv.org/pdf/2103.13944.pdf)
@@ -337,10 +345,6 @@ Markdown format:
   [[code]](https://github.com/sancarlim/Explainable-MP/tree/v1.1)
   - Sandra Carrasco, Sylwia Majchrowska, Joakim Johnander, Christoffer Petersson, and David Fernández LLorca. *arXiv*, 2022.
 
-- On the Probability of Necessity and Sufficiency of Explaining Graph Neural Networks: A Lower Bound Optimization Approach.
-  [[pdf]](https://arxiv.org/pdf/2212.07056.pdf)
-  - Ruichu Cai, Yuxuan Zhu, Xuexin Chen, Yuan Fang, Min Wu, Jie Qiao, and Zhifeng Hao. *arXiv*, 2022.
-
 - Counterfactual inference to predict causal knowledge graph for relational transfer learning by assimilating expert knowledge --Relational feature transfer learning algorithm.
   [[pdf]](https://www.researchgate.net/profile/Jiarui-Li-30/publication/357483911_Counterfactual_inference_to_predict_causal_knowledge_graph_for_relational_transfer_learning_by_assimilating_expert_knowledge_--Relational_feature_transfer_learning_algorithm/links/61d53a31d4500608168d2e0c/Counterfactual-inference-to-predict-causal-knowledge-graph-for-relational-transfer-learning-by-assimilating-expert-knowledge--Relational-feature-transfer-learning-algorithm.pdf)
   - Jiarui Lia, Yukio Horiguchib, and Tetsuo Sawaragia. *Advanced Engineering Informatics*, 2022.
@@ -383,10 +387,6 @@ Markdown format:
   [[pdf]](https://aclanthology.org/2021.naacl-main.156.pdf)
   [[code]](https://github.com/CKRE/CMGE)
   - Haoran Wu, Wei Chen, Shuang Xu, and Bo Xu. *NAACL*, 2021.
-
-- Multi-objective Explanations of GNN Predictions.
-  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679172)
-  - Yifei Liu, Chao Chen, Yazheng Liu, Xi Zhang, and Sihong Xie. *ICDM*, 2021.
 
 - Causal Discovery in Physical Systems from Videos.
   [[pdf]](https://arxiv.org/pdf/2007.00631.pdf)
