@@ -259,11 +259,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2210.08443.pdf)
   - Jing Ma, Ruocheng Guo, Saumitra Mishra, Aidong Zhang, and Jundong Li. *NeurIPS*, 2022.
 
-- Model agnostic generation of counterfactual explanations for molecules.
-  [[pdf]](https://pubs.rsc.org/en/content/articlehtml/2022/sc/d1sc05259d)
-  [[code]](https://github.com/ur-whitelab/exmol)
-  - Geemi P. Wellawatte, Aditi Seshadri, and Andrew D. White. *Chemical Science*, 2022.
-
 - Ensemble approaches for Graph Counterfactual Explanations.
   [[pdf]](https://ceur-ws.org/Vol-3277/paper6.pdf)
   - Mario Alfonso Prado-Romero, Bardh Prenkaj, Giovanni Stilo, Alessandro Celi, Ernesto Estevanell-Valladares, and Daniel Alejandro Valdés-Pérez. *CEUR-WS*, 2022.
@@ -348,6 +343,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2212.03806.pdf)
   [[code]](https://github.com/sancarlim/Explainable-MP/tree/v1.1)
   - Sandra Carrasco, Sylwia Majchrowska, Joakim Johnander, Christoffer Petersson, and David Fernández LLorca. *arXiv*, 2022.
+
+- Model agnostic generation of counterfactual explanations for molecules.
+  [[pdf]](https://pubs.rsc.org/en/content/articlehtml/2022/sc/d1sc05259d)
+  [[code]](https://github.com/ur-whitelab/exmol)
+  - Geemi P. Wellawatte, Aditi Seshadri, and Andrew D. White. *Chemical Science*, 2022.
 
 - Counterfactual inference to predict causal knowledge graph for relational transfer learning by assimilating expert knowledge --Relational feature transfer learning algorithm.
   [[pdf]](https://www.researchgate.net/profile/Jiarui-Li-30/publication/357483911_Counterfactual_inference_to_predict_causal_knowledge_graph_for_relational_transfer_learning_by_assimilating_expert_knowledge_--Relational_feature_transfer_learning_algorithm/links/61d53a31d4500608168d2e0c/Counterfactual-inference-to-predict-causal-knowledge-graph-for-relational-transfer-learning-by-assimilating-expert-knowledge--Relational-feature-transfer-learning-algorithm.pdf)
