@@ -376,7 +376,7 @@ Markdown format:
 - Capturing Molecular Interactions in Graph Neural Networks: A Case Study in Multi-Component Phase Equilibrium.
   [[pdf]](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/626e8217ebac3a1603e9d3d0/original/capturing-molecular-interactions-in-graph-neural-networks-a-case-study-in-multi-component-phase-equilibrium.pdf)
   [[code]](https://github.com/zavalab/ML/tree/SolvGNN)
-  - Shiyi Qin, Shengli Jiang, Jianping Li, Prasanna Balaprakash1, Reid C. Van Lehn, and Victor M. Zavala. *Chemrxiv*, 2022.
+  - Shiyi Qin, Shengli Jiang, Jianping Li, Prasanna Balaprakash, Reid C. Van Lehn, and Victor M. Zavala. *Chemrxiv*, 2022.
 
 - Estimating counterfactual treatment outcomes over time in complex multi-agent scenarios.
   [[pdf]](https://arxiv.org/pdf/2206.01900.pdf)
