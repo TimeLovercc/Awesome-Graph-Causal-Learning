@@ -63,7 +63,7 @@ Markdown format:
 ## Survey
 - Counterfactual Learning on Graphs: A Survey.
   [[pdf]](https://arxiv.org/pdf/2304.01391.pdf)
-  - Zhimeng Guo, Teng Xiao, Charu Aggarwal, Hui Liu, and Suhang Wang. **arXiv**, 2023.
+  - Zhimeng Guo, Teng Xiao, Charu Aggarwal, Hui Liu, and Suhang Wang. *arXiv*, 2023.
 
 - Causal Discovery from Temporal Data: An Overview and New Perspectives.
   [[pdf]](https://arxiv.org/pdf/2303.10112.pdf)
