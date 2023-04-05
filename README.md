@@ -40,7 +40,6 @@ Markdown format:
 **Note**: In the same year, please place the conference paper before the journal paper, as journals are usually submitted a long time ago and therefore have some lag. (*i.e.*, Conferences-->Preprints-->Journals)
 
 ## Table of Contents
-- [Not for Graph](#not-for-graph)
 - [Survey](#survey)
 - [Causal Learning](#causal-learning)
     - [Node Classification](#node-classification)
@@ -57,46 +56,15 @@ Markdown format:
 - [Causal Effect Estimate](#causal-effect-estimate)
 - [Benchmark](#benchmark)
 - [A Summary of Open-source Codes](#a-summary-of-open-source-codes)
+- [Not for Graph](#not-for-graph)
 
 
-## Not for Graph
-- Deep Causal Learning: Representation, Discovery and Inference.
-  [[pdf]](https://arxiv.org/ftp/arxiv/papers/2211/2211.03374.pdf)
-  - Zizhen Deng, Xiaolong Zheng, Hu Tian, and Daniel Dajun Zeng. *arXiv*, 2022.
-
-- Causal Machine Learning: A Survey and Open Problems.
-  [[pdf]](https://arxiv.org/pdf/2206.15475.pdf)
-  - Jean Kaddour, Aengus Lynch, Qi Liu, Matt J. Kusner, and Ricardo Silva. *arXiv*, 2022.
-
-- Toward Causal Representation Learning.
-  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9363924)
-  - Bernhard Schölkopf, Francesco Locatello, Stefan Bauer, Nan Rosemary Ke, Nal Kalchbrenner, Anirudh Goyal, and Yoshua Bengio. *arXiv*, 2021.
-
-- A Survey on Causal Inference.
-  [[pdf]](https://arxiv.org/pdf/2002.02770.pdf)
-  - Liuyi Yao, Zhixuan Chu, Sheng Li, Yaliang Li, Jing Gao, and Aidong Zhang. *arXiv*, 2020.
-
-- A Survey of Learning Causality with Data: Problems and Methods.
-  [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3397269)
-  - Ruocheng Guo, Lu Cheng, Jundong Li, P. Richard Hahn, and Huan Liu. *ACM Computing Surveys*, 2020.
-
-- Causality for Machine Learning.
-  [[pdf]](https://arxiv.org/pdf/1911.10500.pdf)
-  - Bernhard Schölkopf. *arXiv*, 2019.
-
-- Counterfactual Fairness.
-  [[pdf]](https://arxiv.org/pdf/1703.06856.pdf)
-  - Matt J. Kusner, Joshua R. Loftus, Chris Russell, and Ricardo Silva. *NeurIPS*, 2017.
-
-- Learning Representations for Counterfactual Inference.
-  [[pdf]](http://proceedings.mlr.press/v48/johansson16.pdf)
-  - Fredrik D. Johansson, Uri Shalit, and David Sontag. *ICML*, 2016.
-
-- Causal inference in statistics: An overview.
-  [[pdf]](https://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf)
-  - Judea Pearl. *Statistics Surveys*, 2009.
 
 ## Survey
+- Counterfactual Learning on Graphs: A Survey.
+  [[pdf]](https://arxiv.org/pdf/2304.01391.pdf)
+  - Zhimeng Guo, Teng Xiao, Charu Aggarwal, Hui Liu, and Suhang Wang. **arXiv**, 2023.
+
 - Causal Discovery from Temporal Data: An Overview and New Perspectives.
   [[pdf]](https://arxiv.org/pdf/2303.10112.pdf)
   - Chang Gong, Di Yao, Chuzhe Zhang, Wenbin Li, and Jingping Bi. *arXiv*, 2023.
@@ -455,3 +423,39 @@ Markdown format:
 ## A Summary of Open-source Codes
 
 
+## Not for Graph
+- Deep Causal Learning: Representation, Discovery and Inference.
+  [[pdf]](https://arxiv.org/ftp/arxiv/papers/2211/2211.03374.pdf)
+  - Zizhen Deng, Xiaolong Zheng, Hu Tian, and Daniel Dajun Zeng. *arXiv*, 2022.
+
+- Causal Machine Learning: A Survey and Open Problems.
+  [[pdf]](https://arxiv.org/pdf/2206.15475.pdf)
+  - Jean Kaddour, Aengus Lynch, Qi Liu, Matt J. Kusner, and Ricardo Silva. *arXiv*, 2022.
+
+- Toward Causal Representation Learning.
+  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9363924)
+  - Bernhard Schölkopf, Francesco Locatello, Stefan Bauer, Nan Rosemary Ke, Nal Kalchbrenner, Anirudh Goyal, and Yoshua Bengio. *arXiv*, 2021.
+
+- A Survey on Causal Inference.
+  [[pdf]](https://arxiv.org/pdf/2002.02770.pdf)
+  - Liuyi Yao, Zhixuan Chu, Sheng Li, Yaliang Li, Jing Gao, and Aidong Zhang. *arXiv*, 2020.
+
+- A Survey of Learning Causality with Data: Problems and Methods.
+  [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3397269)
+  - Ruocheng Guo, Lu Cheng, Jundong Li, P. Richard Hahn, and Huan Liu. *ACM Computing Surveys*, 2020.
+
+- Causality for Machine Learning.
+  [[pdf]](https://arxiv.org/pdf/1911.10500.pdf)
+  - Bernhard Schölkopf. *arXiv*, 2019.
+
+- Counterfactual Fairness.
+  [[pdf]](https://arxiv.org/pdf/1703.06856.pdf)
+  - Matt J. Kusner, Joshua R. Loftus, Chris Russell, and Ricardo Silva. *NeurIPS*, 2017.
+
+- Learning Representations for Counterfactual Inference.
+  [[pdf]](http://proceedings.mlr.press/v48/johansson16.pdf)
+  - Fredrik D. Johansson, Uri Shalit, and David Sontag. *ICML*, 2016.
+
+- Causal inference in statistics: An overview.
+  [[pdf]](https://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf)
+  - Judea Pearl. *Statistics Surveys*, 2009.
