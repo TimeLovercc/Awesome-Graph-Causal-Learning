@@ -15,7 +15,7 @@ Graph Causal Learning is an emerging research area and it can be widely applied 
 * 2023/01/04: I change the format of the repo and try to include both causal learning papers and counterfactual learning papers.
 
 ## Reference
-If our repo or survey is useful for your research, please cite our paper as follows:
+If our repo or survey is useful for your research, please cite our [paper](https://arxiv.org/abs/2304.01391) as follows:
 ```
 @misc{guo2023counterfactual,
       title={Counterfactual Learning on Graphs: A Survey}, 
