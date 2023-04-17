@@ -291,6 +291,9 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2302.13083.pdf)
   - Heng Chang, Jie Cai, and Jia Li. *WWW*, 2023.
 
+- A Counterfactual Collaborative Session-based Recommender System. [[pdf]](https://arxiv.org/pdf/2301.13364.pdf)
+  - Wenzhuo Song, Shoujin Wang, Yan Wang, Kunpeng Liu, Xueyan Liu, and Minghao Yin. *WWW*, 2023.
+
 - Alleviating Spurious Correlations in Knowledge-aware Recommendations through Counterfactual Generator.
   [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531934?casa_token=ix1Lqmvze-UAAAAA:31ggoL-81DTGg3u7LJNvPgcWm5pboSKgFTwa_rJWQA0U1nmVanE44sE6zdoyL5Wdo9x2vZcYMaGUVw)
   [[code]](https://github.com/RUCAIBox/CGKR)
