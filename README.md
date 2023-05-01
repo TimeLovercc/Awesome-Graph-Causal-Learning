@@ -189,15 +189,29 @@ Markdown format:
   [[pdf]](https://www.sciencedirect.com/sdfe/reader/pii/S0306457322002382/pdf)
   - Panyu Zhai, Yanwu, Yang, and Chunjie Zhang. *Information Processing & Management*, 2023.
 
+- Causal Disentanglement for Implicit Recommendations with Network Information.
+  [[pdf]](https://dl.acm.org/doi/abs/10.1145/3582435)
+  - Paras Sheth, Ruocheng Guo, Lu Cheng, Huan Liu, and Kasim Selçuk Candan. *TKDD*, 2023.
+
+- Causal Disentanglement with Network Information for Debiased Recommendations.
+  [[pdf]](https://arxiv.org/pdf/2204.07221.pdf)
+  - Paras Sheth, Ruocheng Guo, Lu Cheng, Huan Liu, and K. Selçuk Candan. *arXiv*, 2022.
+
 ### Applications
+- CausalGNN: Causal-based Graph Neural Networks for Spatio-Temporal Epidemic Forecasting.
+  [[pdf]](https://www.aaai.org/AAAI22Papers/AISI-6475.WangL.pdf)
+  - Lijing Wang, Aniruddha Adiga, Jiangzhuo Chen, Adam Sadilek, Srinivasan Venkatramanan, and Madhav Marathe. *AAAI*, 2022.
+
 - Multivariate Time Series Forecasting with Transfer Entropy Graph.
   [[pdf]](https://arxiv.org/pdf/2005.01185.pdf)
   [[code]](https://github.com/RRRussell/CauGNN)
   - Ziheng Duan, Haoyan Xu, Yida Huang, Jie Feng, and Yueyang Wang. *arXiv*, 2021.
 
-- CausalGNN: Causal-based Graph Neural Networks for Spatio-Temporal Epidemic Forecasting.
-  [[pdf]](https://www.aaai.org/AAAI22Papers/AISI-6475.WangL.pdf)
-  - Lijing Wang, Aniruddha Adiga, Jiangzhuo Chen, Adam Sadilek, Srinivasan Venkatramanan, and Madhav Marathe. *AAAI*, 2022.
+- Causal Understanding of Fake News Dissemination on Social Media.
+  [[pdf]](https://arxiv.org/pdf/2010.10580.pdf)
+  - Lu Cheng, Ruocheng Guo, Kai Shu, and Huan Liu. *arXiv*, 2020.
+
+
 
 ## Counterfactual Learning
 
