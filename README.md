@@ -65,6 +65,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2304.01391.pdf)
   - Zhimeng Guo, Teng Xiao, Charu Aggarwal, Hui Liu, and Suhang Wang. *arXiv*, 2023.
 
+- Learning Causality with Graphs.
+  [[pdf]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.12070)
+  - Jing Ma, and Jundong Li. *AI Magazine*, 2022.
+
 - Causal Discovery from Temporal Data: An Overview and New Perspectives.
   [[pdf]](https://arxiv.org/pdf/2303.10112.pdf)
   - Chang Gong, Di Yao, Chuzhe Zhang, Wenbin Li, and Jingping Bi. *arXiv*, 2023.
@@ -411,6 +415,14 @@ Markdown format:
 - Causal Inference under Networked Interference and Intervention Policy Enhancement.
   [[pdf]](http://proceedings.mlr.press/v130/ma21c/ma21c.pdf)
   - Yunpu Ma, and Volker Tresp. *AISTATS*, 2021.
+
+- Learning Individual Causal Effects from Networked Observational Data.
+  [[pdf]](https://arxiv.org/pdf/1906.03485.pdf)
+  - Ruocheng Guo, Jundong Li, and Huan Liu. *WSDM*, 2020.
+
+- Causal Inference for Social Network Data.
+  [[pdf]](https://arxiv.org/pdf/1705.08527.pdf)
+  - Elizabeth L. Ogburn, Oleg Sofrygin, Ivan Diaz, and Mark J. van der Laan. *arXiv*, 2017.
 
 ## Benchmark
 - CausalBench: A Large-scale Benchmark for Network Inference from Single-cell Perturbation Data.
