@@ -90,6 +90,10 @@ Markdown format:
   [[code]](https://github.com/liugangcode/GREA)
   - Gang Liu, Tong Zhao, Jiaxin Xu, Tengfei Luo, and Meng Jiang. *KDD*, 2022.
 
+- Should Graph Convolution Trust Neighbors? A Simple Causal Inference Method.
+  [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3404835.3462971)
+  - Fuli Feng, Weiran Huang, Xiangnan He, Xin Xin, Qifan Wang, and Tat-Seng Chua. *SIGIR*, 2021.
+
 ### Out of Distribution
 - Introducing Expertise Logic into Graph Representation Learning from A Causal Perspective.
   [[pdf]](https://arxiv.org/pdf/2301.08496.pdf)
@@ -188,6 +192,10 @@ Markdown format:
 - Causality-based CTR prediction using graph neural networks.
   [[pdf]](https://www.sciencedirect.com/sdfe/reader/pii/S0306457322002382/pdf)
   - Panyu Zhai, Yanwu, Yang, and Chunjie Zhang. *Information Processing & Management*, 2023.
+
+- Disentangled Causal Embedding With Contrastive Learning For Recommender System.
+  [[pdf]](https://arxiv.org/pdf/2302.03248.pdf)
+  - Weiqi Zhao, Dian Tang, Xin Chen, Dawei Lv, Daoli Ou, Biao Li, Peng Jiang, and Kun Gai. *arXiv*, 2023.
 
 - Causal Disentanglement for Implicit Recommendations with Network Information.
   [[pdf]](https://dl.acm.org/doi/abs/10.1145/3582435)
@@ -426,6 +434,10 @@ Markdown format:
 
 
 ## Causal Effect Estimate
+- Learning Causal Effects on Hypergraphs.
+  [[pdf]](https://arxiv.org/pdf/2207.04049.pdf)
+  - Jing Ma, Mengting Wan, Longqi Yang, Jundong Li, Brent Hecht, and Jaime Teevan. *arXiv*, 2022.
+
 - Causal Inference under Networked Interference and Intervention Policy Enhancement.
   [[pdf]](http://proceedings.mlr.press/v130/ma21c/ma21c.pdf)
   - Yunpu Ma, and Volker Tresp. *AISTATS*, 2021.
