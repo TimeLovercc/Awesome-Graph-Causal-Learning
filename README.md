@@ -45,6 +45,8 @@ Markdown format:
     - [Node Classification](#node-classification)
     - [Out of Distribution](#out-of-distribution)
     - [Contrastive Learning](#contrastive-learning)
+    - [Fairness](#fairness)
+    - [Explaination](#explaination)
     - [Recommendation](#recommendation)
     - [Applications](#applications)
 - [Counterfactual Learning](#counterfactual-learning)
