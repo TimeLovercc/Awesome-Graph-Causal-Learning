@@ -46,7 +46,7 @@ Markdown format:
     - [Out of Distribution](#out-of-distribution)
     - [Contrastive Learning](#contrastive-learning)
     - [Fairness](#fairness)
-    - [Explaination](#explaination)
+    - [Explanation](#explaination)
     - [Recommendation](#recommendation)
     - [Applications](#applications)
 - [Counterfactual Learning](#counterfactual-learning)
