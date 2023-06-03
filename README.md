@@ -136,11 +136,6 @@ Markdown format:
   [[code]](https://github.com/yangnianzu0515/MoleOOD)
   - Nianzu Yang, Kaipeng Zeng, Qitian Wu, Xiaosong Jia, and Junchi Yan. *NeurIPS*, 2022.
 
-- Learning Causally Invariant Representations for Out-of-Distribution Generalization on Graphs.
-  [[pdf]](https://arxiv.org/pdf/2202.05441.pdf)
-  [[code]](https://github.com/LFhase/CIGA)
-  - Yongqiang Chen, Yonggang Zhang, Yatao Bian, Han Yang, Kaili Ma, and Binghui Xie. *NeurIPS*, 2022.
-
 - Adversarial Causal Augmentation for Graph Covariate Shift.
   [[pdf]](https://arxiv.org/pdf/2211.02843.pdf)
   - Yongduo Sui, Xiang Wang, Jiancan Wu, An Zhang, and Xiangnan He. *arXiv*, 2022.
