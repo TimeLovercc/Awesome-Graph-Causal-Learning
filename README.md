@@ -97,6 +97,10 @@ Markdown format:
   - Fuli Feng, Weiran Huang, Xiangnan He, Xin Xin, Qifan Wang, and Tat-Seng Chua. *SIGIR*, 2021.
 
 ### Out of Distribution
+- Joint Learning of Label and Environment Causal Independence for Graph Out-of-Distribution Generalization.
+  [[pdf]](https://arxiv.org/pdf/2306.01103.pdf)
+  - Shurui Gui, Meng Liu, Xiner Li, Youzhi Luo, Shuiwang Ji. *arXiv*, 2023.
+
 - Introducing Expertise Logic into Graph Representation Learning from A Causal Perspective.
   [[pdf]](https://arxiv.org/pdf/2301.08496.pdf)
   - Hang Gao, Jiangmeng Li, Wenwen Qiang, Lingyu Si, Xingzhe Su1, Fengge wu, Changwen Zheng, and Fuchu Sun. *arXiv*, 2023.
