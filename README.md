@@ -67,6 +67,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2304.01391.pdf)
   - Zhimeng Guo, Teng Xiao, Charu Aggarwal, Hui Liu, and Suhang Wang. *arXiv*, 2023.
 
+- Domain Generalization -- A Causal Perspective.
+  [[pdf]](https://arxiv.org/pdf/2209.15177.pdf)
+  - Paras Sheth, Raha Moraffah, K. Selçuk Candan, Adrienne Raglin, and Huan Liu. *arXiv*, 2022.
+
 - Learning Causality with Graphs.
   [[pdf]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.12070)
   - Jing Ma, and Jundong Li. *AI Magazine*, 2022.
@@ -82,6 +86,18 @@ Markdown format:
 ## Causal Learning
 
 ### Node Classification
+- Causally-guided Regularization of Graph Attention Improves Generalizability.
+  [[pdf]](https://arxiv.org/pdf/2210.10946.pdf)
+  - Alexander P. Wu, Thomas Markovich, Bonnie Berger, Nils Hammerla, and Rohit Singh. *arXiv*, 2023.
+
+- Causal-Based Supervision of Attention in Graph Neural Network: A Better and Simpler Choice towards Powerful Attention
+  [[pdf]](https://arxiv.org/pdf/2305.13115.pdf)
+  - Hongjun Wang, Jiyuan Chen, Lun Du, Qiang Fu, Shi Han, and Xuan Song. *arXiv*, 2023.
+
+- Invariant Node Representation Learning under Distribution Shits with Multiple Latent Environments.
+  [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3604427)
+  - Haoyang Li, Ziwei Zhang, Xin Wang, and Wenwu Zhu. *TOIS*, 2023.
+
 - Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism.
   [[pdf]](https://proceedings.mlr.press/v162/miao22a/miao22a.pdf)
   [[code]](https://github.com/Graph-COM/GSAT)
@@ -96,7 +112,18 @@ Markdown format:
   [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3404835.3462971)
   - Fuli Feng, Weiran Huang, Xiangnan He, Xin Xin, Qifan Wang, and Tat-Seng Chua. *SIGIR*, 2021.
 
+### Unsupervised Learning
+
+
 ### Out of Distribution
+- Rethinking Invariant Graph Representation Learning without Environment Partitions.
+  [[pdf]](https://openreview.net/pdf?id=bjw5jqGtDy)
+  - Yongqiang Chen, Yatao Bian, Kaiwen Zhou, Binghui Xie, Bo Han, and James Cheng. *ICLR Workshop*, 2023.
+
+- Graph Structure and Feature Extrapolation for Out-of-Distribution Generalization.
+  [[pdf]](https://arxiv.org/pdf/2306.08076.pdf)
+  - Xiner Li, Shurui Gui, Youzhi Luo, and Shuiwang Ji. *arXiv*, 2023.
+
 - Joint Learning of Label and Environment Causal Independence for Graph Out-of-Distribution Generalization.
   [[pdf]](https://arxiv.org/pdf/2306.01103.pdf)
   - Shurui Gui, Meng Liu, Xiner Li, Youzhi Luo, Shuiwang Ji. *arXiv*, 2023.
@@ -189,7 +216,7 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1904.12694.pdf)
   - Bo Kang, Jefrey Lijffijt, and Tijl De Bie. *arXiv*, 2019.
 
-### Recommendation
+### Recommendation 
 - Causality-based CTR prediction using graph neural networks.
   [[pdf]](https://www.sciencedirect.com/sdfe/reader/pii/S0306457322002382/pdf)
   - Panyu Zhai, Yanwu, Yang, and Chunjie Zhang. *Information Processing & Management*, 2023.
@@ -202,11 +229,27 @@ Markdown format:
   [[pdf]](https://dl.acm.org/doi/abs/10.1145/3582435)
   - Paras Sheth, Ruocheng Guo, Lu Cheng, Huan Liu, and Kasim Selçuk Candan. *TKDD*, 2023.
 
+- Causal Inference for Knowledge Graph based Recommendation.
+  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9996555)
+  - Yinwei Wei, Xiang Wang, Liqiang Nie, Shaoyu Li, Dingxian Wang and Tat-Seng Chua. *TKDE*, 2022.
+
 - Causal Disentanglement with Network Information for Debiased Recommendations.
   [[pdf]](https://arxiv.org/pdf/2204.07221.pdf)
   - Paras Sheth, Ruocheng Guo, Lu Cheng, Huan Liu, and K. Selçuk Candan. *arXiv*, 2022.
 
 ### Applications
+- Shift-Robust Molecular Relational Learning with Causal Substructure.
+  [[pdf]](https://arxiv.org/pdf/2305.18451.pdf)
+  - Namkyeong Lee, Kanghoon Yoon, Gyoung S. Na, Sein Kim, and Chanyoung Park. *arXiv*, 2023.
+
+- Causal-Trivial Attention Graph Neural Network for Fault Diagnosis of Complex Industrial Processes.
+  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10146475)
+  - Hao Wang, Ruonan Liu, Steven X. Ding, Qinghua Hu, Zengxiang Li, and Hongkuan Zhou. *arXiv*, 2023.
+
+- CI-GNN: A Granger Causality-Inspired Graph Neural Network for Interpretable Brain Network-Based Psychiatric Diagnosis.
+  [[pdf]](https://arxiv.org/pdf/2301.01642.pdf)
+  - Kaizhong Zheng, Shujian Yu, and Badong Chen. *arXiv*, 2023.
+
 - CausalGNN: Causal-based Graph Neural Networks for Spatio-Temporal Epidemic Forecasting.
   [[pdf]](https://www.aaai.org/AAAI22Papers/AISI-6475.WangL.pdf)
   - Lijing Wang, Aniruddha Adiga, Jiangzhuo Chen, Adam Sadilek, Srinivasan Venkatramanan, and Madhav Marathe. *AAAI*, 2022.
