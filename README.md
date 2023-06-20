@@ -137,6 +137,10 @@ Markdown format:
   [[code]](https://github.com/yongduosui/CAL)
   - Yongduo Sui, Xiang Wang, Jiancan Wu, Min Lin, Xiangnan He, and Tat-Seng Chua. *KDD*, 2022.
 
+- Learning Invariant Graph Representations for Out-of-Distribution Generalization.
+  [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/4d4e0ab9d8ff180bf5b95c258842d16e-Paper-Conference.pdf)
+  - Haoyang Li, Ziwei Zhang, Xin Wang, and Wenwu Zhu. *NeurIPS*, 2022.
+
 - Discovering Invariant Rationales for Graph Neural Networks.
   [[pdf]](https://openreview.net/pdf?id=hGXij5rfiHw)
   [[code]](https://github.com/Wuyxin/DIR-GNN)
