@@ -179,6 +179,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2208.08584.pdf)
   - Hang Gao, Jiangmeng Li, Wenwen Qiang, Lingyu Si, Bing Xu, Changwen Zheng, and Fuchun Sun. *arXiv*, 2022.
 
+- Generalizing graph neural networks on out-of-distribution graphs.
+  [[pdf]](https://arxiv.org/pdf/2111.10657)
+  - Shaohua Fan, Xiao Wang, Chuan Shi, Peng Cui, and Bai Wang. *arXiv*, 2021.
+
 ### Contrastive Learning
 - Let Invariant Rationale Discovery Inspire Graph Contrastive Learning.
   [[pdf]](https://proceedings.mlr.press/v162/li22v/li22v.pdf)
