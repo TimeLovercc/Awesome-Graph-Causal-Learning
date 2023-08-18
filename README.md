@@ -116,6 +116,10 @@ Markdown format:
 
 
 ### Out of Distribution
+- Robust Causal Graph Representation Learning against Confounding Effects.
+  [[pdf]](https://arxiv.org/pdf/2208.08584.pdf)
+  - Hang Gao, Jiangmeng Li, Wenwen Qiang, Lingyu Si, Bing Xu, Changwen Zheng, and Fuchun Sun. *AAAI*, 2023.
+
 - Rethinking Invariant Graph Representation Learning without Environment Partitions.
   [[pdf]](https://openreview.net/pdf?id=bjw5jqGtDy)
   - Yongqiang Chen, Yatao Bian, Kaiwen Zhou, Binghui Xie, Bo Han, and James Cheng. *ICLR Workshop*, 2023.
@@ -174,10 +178,6 @@ Markdown format:
 - Adversarial Causal Augmentation for Graph Covariate Shift.
   [[pdf]](https://arxiv.org/pdf/2211.02843.pdf)
   - Yongduo Sui, Xiang Wang, Jiancan Wu, An Zhang, and Xiangnan He. *arXiv*, 2022.
-
-- Robust Causal Graph Representation Learning against Confounding Effects.
-  [[pdf]](https://arxiv.org/pdf/2208.08584.pdf)
-  - Hang Gao, Jiangmeng Li, Wenwen Qiang, Lingyu Si, Bing Xu, Changwen Zheng, and Fuchun Sun. *arXiv*, 2022.
 
 - Generalizing graph neural networks on out-of-distribution graphs.
   [[pdf]](https://arxiv.org/pdf/2111.10657)
