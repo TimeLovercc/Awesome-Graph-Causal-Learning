@@ -280,6 +280,7 @@ Markdown format:
 - EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks
   [[pdf]](https://arxiv.org/pdf/2108.05233.pdf)
   [[code]](https://github.com/yushundong/EDITS)
+  - Yushun Dong, Ninghao Liu, Brian Jalaian, and Jundong Li. *WWW*, 2022.
 - Learning Fair Node Representations with Graph Counterfactual Fairness.
   [[pdf]](https://arxiv.org/pdf/2201.03662.pdf)
   [[code]](https://github.com/jma712/GEAR)
