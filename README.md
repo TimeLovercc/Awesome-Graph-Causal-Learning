@@ -277,10 +277,10 @@ Markdown format:
 
 ### Counterfactual Fairness
 
-- EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks
-  [[pdf]](https://arxiv.org/pdf/2108.05233.pdf)
-  [[code]](https://github.com/yushundong/EDITS)
-  - Yushun Dong, Ninghao Liu, Brian Jalaian, and Jundong Li. *WWW*, 2022.
+- Towards Fair Graph Neural Networks via Graph Counterfactual
+  [[pdf]](https://arxiv.org/pdf/2307.04937.pdf)
+  [[code]](https://github.com/TimeLovercc/CAF-GNN)
+  - Zhimeng Guo, Jialiang Li, Teng Xiao, Yao Ma, and Suhang Wang. *CIKM*, 2023
 - Learning Fair Node Representations with Graph Counterfactual Fairness.
   [[pdf]](https://arxiv.org/pdf/2201.03662.pdf)
   [[code]](https://github.com/jma712/GEAR)
@@ -298,6 +298,8 @@ Markdown format:
 - Fairness-Aware Node Representation Learning.
   [[pdf]](https://arxiv.org/pdf/2106.05391.pdf)
   - O. Deniz Kose, and Yanning Shen. *arXiv*, 2021.
+ 
+  Towards Fair Graph Neural Networks via Graph Counterfactual
 
 ### Counterfactual Explanation
 - Evaluating explainability for graph neural networks.
