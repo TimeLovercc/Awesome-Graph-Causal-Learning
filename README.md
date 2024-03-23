@@ -298,13 +298,16 @@ Markdown format:
 - Fairness-Aware Node Representation Learning.
   [[pdf]](https://arxiv.org/pdf/2106.05391.pdf)
   - O. Deniz Kose, and Yanning Shen. *arXiv*, 2021.
- 
-  Towards Fair Graph Neural Networks via Graph Counterfactual
 
 ### Counterfactual Explanation
+- UNR-Explainer: Counterfactual Explanations for Unsupervised Node Representation Learning Models
+  [[pdf]](https://openreview.net/forum?id=0j9ZDzMPqr)
+  - Hyunju Kang, Geonhee Han, Hogun Park. *ICLR*, 2024.
+    
 - Game-theoretic Counterfactual Explanation for Graph Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2402.06030.pdf)
-  - Chirag Chhablani, Sarthak Jain, Akshay Channesh, Ian A. Kash, and Sourav Medya. "Game-theoretic Counterfactual Explanation for Graph Neural Networks." *arXiv*, 2024.
+  - Chirag Chhablani, Sarthak Jain, Akshay Channesh, Ian A. Kash, and Sourav Medya. *WWW*, 2024.
+    
 - Evaluating explainability for graph neural networks.
   [[pdf]](https://arxiv.org/pdf/2208.09339.pdf)
   [[code]](https://github.com/mims-harvard/GraphXAI)
