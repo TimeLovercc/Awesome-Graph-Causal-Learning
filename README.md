@@ -302,6 +302,9 @@ Markdown format:
   Towards Fair Graph Neural Networks via Graph Counterfactual
 
 ### Counterfactual Explanation
+- Game-theoretic Counterfactual Explanation for Graph Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2402.06030.pdf)
+  - Chirag Chhablani, Sarthak Jain, Akshay Channesh, Ian A. Kash, and Sourav Medya. "Game-theoretic Counterfactual Explanation for Graph Neural Networks." *arXiv*, 2024.
 - Evaluating explainability for graph neural networks.
   [[pdf]](https://arxiv.org/pdf/2208.09339.pdf)
   [[code]](https://github.com/mims-harvard/GraphXAI)
