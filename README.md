@@ -276,11 +276,11 @@ Markdown format:
 ## Counterfactual Learning
 
 ### Counterfactual Fairness
-- Evaluating explainability for graph neural networks.
-  [[pdf]](https://arxiv.org/pdf/2208.09339.pdf)
-  [[code]](https://github.com/mims-harvard/GraphXAI)
-  - Chirag Agarwal, Owen Queen, Himabindu Lakkaraju, and Marinka Zitnik. *arXiv*, 2023.
 
+- Towards Fair Graph Neural Networks via Graph Counterfactual
+  [[pdf]](https://arxiv.org/pdf/2307.04937.pdf)
+  [[code]](https://github.com/TimeLovercc/CAF-GNN)
+  - Zhimeng Guo, Jialiang Li, Teng Xiao, Yao Ma, and Suhang Wang. *CIKM*, 2023
 - Learning Fair Node Representations with Graph Counterfactual Fairness.
   [[pdf]](https://arxiv.org/pdf/2201.03662.pdf)
   [[code]](https://github.com/jma712/GEAR)
@@ -300,6 +300,19 @@ Markdown format:
   - O. Deniz Kose, and Yanning Shen. *arXiv*, 2021.
 
 ### Counterfactual Explanation
+- UNR-Explainer: Counterfactual Explanations for Unsupervised Node Representation Learning Models
+  [[pdf]](https://openreview.net/forum?id=0j9ZDzMPqr)
+  - Hyunju Kang, Geonhee Han, Hogun Park. *ICLR*, 2024.
+    
+- Game-theoretic Counterfactual Explanation for Graph Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2402.06030.pdf)
+  - Chirag Chhablani, Sarthak Jain, Akshay Channesh, Ian A. Kash, and Sourav Medya. *WWW*, 2024.
+    
+- Evaluating explainability for graph neural networks.
+  [[pdf]](https://arxiv.org/pdf/2208.09339.pdf)
+  [[code]](https://github.com/mims-harvard/GraphXAI)
+  - Chirag Agarwal, Owen Queen, Himabindu Lakkaraju, and Marinka Zitnik. *arXiv*, 2023.
+
 - Global Counterfactual Explainer for Graph Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2210.11695.pdf)
   [[code]](https://github.com/mertkosan/GCFExplainer)
