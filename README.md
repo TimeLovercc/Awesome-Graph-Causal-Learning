@@ -19,7 +19,7 @@ If our repo or survey is useful for your research, please cite our [paper](https
 ```
 @misc{guo2023counterfactual,
       title={Counterfactual Learning on Graphs: A Survey}, 
-      author={Zhimeng Guo and Teng Xiao and Charu Aggarwal and Hui Liu and Suhang Wang},
+      author={Zhimeng Guo and Zongyu Wu and Teng Xiao and Charu Aggarwal and Hui Liu and Suhang Wang},
       year={2023},
       eprint={2304.01391},
       archivePrefix={arXiv},
