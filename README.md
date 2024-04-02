@@ -277,10 +277,14 @@ Markdown format:
 
 ### Counterfactual Fairness
 
+- Mitigating multisource biases in graph neural networks via real counterfactual samples
+  [[pdf]](https://ieeexplore.ieee.org/document/10415714)
+  -Zichong Wang, Giri Narasimhan, Xin Yao, and Wenbin Zhang. *ICDM*, 2023.
+
 - Towards Fair Graph Neural Networks via Graph Counterfactual
   [[pdf]](https://arxiv.org/pdf/2307.04937.pdf)
   [[code]](https://github.com/TimeLovercc/CAF-GNN)
-  - Zhimeng Guo, Jialiang Li, Teng Xiao, Yao Ma, and Suhang Wang. *CIKM*, 2023
+  - Zhimeng Guo, Jialiang Li, Teng Xiao, Yao Ma, and Suhang Wang. *CIKM*, 2023.
 - Learning Fair Node Representations with Graph Counterfactual Fairness.
   [[pdf]](https://arxiv.org/pdf/2201.03662.pdf)
   [[code]](https://github.com/jma712/GEAR)
