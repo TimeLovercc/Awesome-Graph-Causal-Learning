@@ -19,7 +19,7 @@ If our repo or survey is useful for your research, please cite our [paper](https
 ```
 @misc{guo2023counterfactual,
       title={Counterfactual Learning on Graphs: A Survey}, 
-      author={Zhimeng Guo and Teng Xiao and Charu Aggarwal and Hui Liu and Suhang Wang},
+      author={Zhimeng Guo and Teng Xiao and Zongyu Wu and Charu Aggarwal and Hui Liu and Suhang Wang},
       year={2023},
       eprint={2304.01391},
       archivePrefix={arXiv},
@@ -53,6 +53,7 @@ Markdown format:
     - [Counterfactual Fairness](#counterfactual-fairness)
     - [Counterfactual Explanation](#counterfactual-explanation)
     - [Counterfactual Link Prediction and Recommendation](#counterfactual-link-prediction-and-recommendation)
+    - [Counterfactual Learning in Real-World Applications](#counterfactual-learning-in-real-world-applications)
     - [Counterfactual Learning in Real-World Applications](#counterfactual-learning-in-real-world-applications)
 - [Causal Discovery](#causal-discovery)
 - [Causal Effect Estimate](#causal-effect-estimate)
@@ -277,10 +278,14 @@ Markdown format:
 
 ### Counterfactual Fairness
 
+- Mitigating multisource biases in graph neural networks via real counterfactual samples
+  [[pdf]](https://ieeexplore.ieee.org/document/10415714)
+  -Zichong Wang, Giri Narasimhan, Xin Yao, and Wenbin Zhang. *ICDM*, 2023.
+
 - Towards Fair Graph Neural Networks via Graph Counterfactual
   [[pdf]](https://arxiv.org/pdf/2307.04937.pdf)
   [[code]](https://github.com/TimeLovercc/CAF-GNN)
-  - Zhimeng Guo, Jialiang Li, Teng Xiao, Yao Ma, and Suhang Wang. *CIKM*, 2023
+  - Zhimeng Guo, Jialiang Li, Teng Xiao, Yao Ma, and Suhang Wang. *CIKM*, 2023.
 - Learning Fair Node Representations with Graph Counterfactual Fairness.
   [[pdf]](https://arxiv.org/pdf/2201.03662.pdf)
   [[code]](https://github.com/jma712/GEAR)
@@ -409,6 +414,10 @@ Markdown format:
   - Chang Liu, Chen Gao, Depeng Jin, and Yong Li. *arXiv*, 2021.
 
 ### Counterfactual Learning in Real-World Applications
+-  Counterfactual Graph Learning for Anomaly Detection with Feature Disentanglement and Generation (Student Abstract). 
+  [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/30524)
+  - Yutao Wei, Wenzheng Shu, Zhangtao Cheng, Wenxin Tai, Chunjing Xiao, and Ting Zhong. *AAAI*, 2024.
+  
 - Towards Explainable Motion Prediction using Heterogeneous Graph Representations.
   [[pdf]](https://arxiv.org/pdf/2212.03806.pdf)
   [[code]](https://github.com/sancarlim/Explainable-MP/tree/v1.1)
@@ -495,7 +504,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1904.10098.pdf)
   [[code]](https://github.com/fishmoon1234/DAG-GNN)
   - Yue Yu, Jie Chen, Tian Gao, and Mo Yu. *ICML*, 2019.
-
 
 
 ## Causal Effect Estimate
