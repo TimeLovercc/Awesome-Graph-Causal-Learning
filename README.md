@@ -11,20 +11,25 @@ We will try our best to continuously maintain this Repository in weekly manner.
 Graph Causal Learning is an emerging research area and it can be widely applied in dealing with out of distribution, fairness and explanation problems.
 
 ## News
+* 2025/01/24: Our survey is now available online in *Machine Intelligence Research*.
 * 2023/04/04: I add our survey paper. Welcome to cite if it is useful.
 * 2023/01/04: I change the format of the repo and try to include both causal learning papers and counterfactual learning papers.
 
 ## Reference
-If our repo or survey is useful for your research, please cite our [paper](https://arxiv.org/abs/2304.01391) as follows:
+If our repo or survey is useful for your research, please cite our [paper](https://link.springer.com/article/10.1007/s11633-024-1519-z) as follows:
 ```
-@misc{guo2023counterfactual,
-      title={Counterfactual Learning on Graphs: A Survey}, 
-      author={Zhimeng Guo and Teng Xiao and Zongyu Wu and Charu Aggarwal and Hui Liu and Suhang Wang},
-      year={2023},
-      eprint={2304.01391},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@article{Guo2025,
+  author = {Guo, Zhimeng and Wu, Zongyu and Xiao, Teng and Aggarwal, Charu and Liu, Hui and Wang, Suhang},
+  title = {Counterfactual Learning on Graphs: A Survey},
+  journal = {Machine Intelligence Research},
+  volume = {22},
+  number = {1},
+  pages = {17--59},
+  year = {2025},
+  doi = {10.1007/s11633-024-1519-z},
+  url = {https://doi.org/10.1007/s11633-024-1519-z}
 }
+
 ```
 
 ## Contributing
